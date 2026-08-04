@@ -21,7 +21,7 @@ export const CreditCard = forwardRef<SVGSVGElement, IconProps>(
         strokeWidth={strokeWidth}
         {...props}
       >
-        <path d="M2 10v7a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-7M2 10V7a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v3M2 10h20" />
+        <path d="M2 10v7c0 1.1.9 2 2 2h16a2 2 0 0 0 2-2v-7M2 10V7c0-1.1.9-2 2-2h16a2 2 0 0 1 2 2v3M2 10h20" />
       </IconBase>
     );
   }

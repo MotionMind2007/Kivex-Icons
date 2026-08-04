@@ -5,19 +5,23 @@
   "main": "index.js",
   "scripts": {
     "polished-svg": "tsx scripts/process-svg.ts",
+
     "gen:core": "pnpm --filter kivex-icons generate",
     "gen:react": "pnpm --filter kivex-react generate",
     "gen:levelo": "pnpm --filter kivex-levelo generate",
     "gen:solid": "pnpm --filter kivex-solid generate",
     "gen:svelte": "pnpm --filter kivex-svelte generate",
     "gen:vue": "pnpm --filter kivex-vue generate",
+    "gen:flutter": "pnpm --filter kivex_flutter generate",
     "gen:all": "pnpm --filter \"kivex-*\" generate",
+
     "build:core": "pnpm --filter kivex-icons build",
     "build:react": "pnpm --filter kivex-react build",
     "build:levelo": "pnpm --filter kivex-levelo build",
     "build:solid": "pnpm --filter kivex-solid build",
     "build:svelte": "pnpm --filter kivex-svelte build",
     "build:vue": "pnpm --filter kivex-vue build",
+    "build:flutter": "pnpm --filter kivex_flutter generate",
     "build:all": "pnpm --filter \"kivex-*\" build"
   },
   "repository": {

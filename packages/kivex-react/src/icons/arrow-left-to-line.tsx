@@ -21,7 +21,7 @@ export const ArrowLeftToLine = forwardRef<SVGSVGElement, IconProps>(
         strokeWidth={strokeWidth}
         {...props}
       >
-        <path d="m13 6-5.87 5.8c-.17.1-.17.3 0 .4L13 18" /><path d="M9 12h12" /><path d="M3 5v14" />
+        <path d="m13 6-5.87 5.8c-.17.1-.17.29 0 .4L13 18" /><path d="M9 12h12" /><path d="M3 5v14" />
       </IconBase>
     );
   }

@@ -21,7 +21,7 @@ export const ChevronUp = forwardRef<SVGSVGElement, IconProps>(
         strokeWidth={strokeWidth}
         {...props}
       >
-        <path d="m6 15 5.65-5.65a.5.5 0 0 1 .7 0L18 15" />
+        <path d="m6 15 5.65-5.65c.2-.2.5-.2.7 0L18 15" />
       </IconBase>
     );
   }

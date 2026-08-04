@@ -1,6 +1,6 @@
 import { getKivexIconString } from "./getKivexIconString";
-import type { IconAttrs } from "src/types/IconAttrs";
-import type { IconProps } from "src/types/IconProps";
+import type { IconProps } from "../types/IconProps";
+import type { IconAttrs } from "../types/IconAttrs";
 
 export function buildKivexIcon(icons: IconProps, options?: IconAttrs): SVGElement {
     if (typeof document === 'undefined') {

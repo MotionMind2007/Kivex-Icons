@@ -21,7 +21,7 @@ export const SquareChevronDown = forwardRef<SVGSVGElement, IconProps>(
         strokeWidth={strokeWidth}
         {...props}
       >
-        <path d="m8 10 3.76 3.9c.13.13.34.13.48 0L16 10" /><rect width={18} height={18} x={3} y={3} rx={1.5} />
+        <path d="m8 10 3.76 3.9c.13.13.35.13.48 0L16 10" /><rect width={18} height={18} x={3} y={3} rx={1.5} />
       </IconBase>
     );
   }

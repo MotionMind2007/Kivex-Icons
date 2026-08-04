@@ -21,7 +21,7 @@ export const ClockArrowLeft = forwardRef<SVGSVGElement, IconProps>(
         strokeWidth={strokeWidth}
         {...props}
       >
-        <path d="M22 12a10 10 0 1 0-10 10" /><path d="m18 13-3.91 3.9q-.18.1 0 .2L18 21" /><path d="M15 17h7" /><path d="M12 6v5l1 1" />
+        <path d="M22 12a10 10 0 1 0-10 10" /><path d="m18 13-3.91 3.9c-.12.05-.12.15 0 .2L18 21" /><path d="M15 17h7" /><path d="M12 6v5l1 1" />
       </IconBase>
     );
   }

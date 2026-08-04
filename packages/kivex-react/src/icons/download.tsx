@@ -21,7 +21,7 @@ export const Download = forwardRef<SVGSVGElement, IconProps>(
         strokeWidth={strokeWidth}
         {...props}
       >
-        <path d="M3 15v4a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-4" /><path d="m6 10 5.3 5.3a1 1 0 0 0 1.4 0L18 10" /><path d="M12 3v11" />
+        <path d="M3 15v4c0 1.1.9 2 2 2h14a2 2 0 0 0 2-2v-4" /><path d="m6 10 5.3 5.3a1 1 0 0 0 1.4 0L18 10" /><path d="M12 3v11" />
       </IconBase>
     );
   }

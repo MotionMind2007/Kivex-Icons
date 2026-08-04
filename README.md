@@ -10,7 +10,7 @@ Kivex (Kinetic Vector Exchange) Icons is a powerful, open-source **Multi-platfor
 
 | Package | Version | Package Manager | LibPilot link |
 | ------- | ------- | ----- | ----- |
-| **Kivex-icons** (Core JS) | [![npm](https://img.shields.io/npm/v/kivex-icons?color=blue)](https://npmjs.com/package/kivex-icons) | [NPM](https://npmjs.com/package/kivex-icons) | [LibPlot](https://libpilot.motionmind.me/package/kivex-icons) |
+| **kivex-icons** (Core JS) | [![npm](https://img.shields.io/npm/v/kivex-icons?color=blue)](https://npmjs.com/package/kivex-icons) | [NPM](https://npmjs.com/package/kivex-icons) | [LibPlot](https://libpilot.motionmind.me/package/kivex-icons) |
 | kivex-react | [![npm](https://img.shields.io/npm/v/kivex-react?color=blue)](https://npmjs.com/package/kivex-react) | [NPM](https://npmjs.com/package/kivex-react) | [LibPilot](https://libpilot.motionmind.me/package/kivex-react) |
 | kivex-react-native | [![npm](https://img.shields.io/npm/v/kivex-react-native?color=blue)](https://npmjs.com/package/kivex-react-native) | [NPM](https://npmjs.com/package/kivex-react-native) | [LibPilot](https://libpilot.motionmind.me/package/kivex-react-native) |
 | kivex-solid | [![npm](https://img.shields.io/npm/v/kivex-solid?color=blue)](https://npmjs.com/package/kivex-solid) | [NPM](https://npmjs.com/package/kivex-solid) | [LibPilot](https://libpilot.motionmind.me/package/kivex-solid) |

@@ -4,7 +4,7 @@
 
 # Kivex Icons
 
-Kivex (Kinetic Vector Exchange) Icons is a powerful, open-source **Multi-platform** icon library. It provides a production-ready ecosystem of **200+ lightweight, pixel-perfect, and dynamic SVG icons** engineered to work seamlessly across modern **Web, Mobile, and Desktop** frameworks.
+Kivex (Kinetic Vector Exchange) Icons is a powerful, open-source **Multi-platform** icon library. It provides a production-ready ecosystem of **300+ lightweight, pixel-perfect, and dynamic SVG icons** engineered to work seamlessly across modern **Web, Mobile, and Desktop** frameworks.
 
 ## Packages
 

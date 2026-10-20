@@ -1,6 +1,6 @@
 {
   "name": "kivex-levelo",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "The official LeveloJS component library for Kivex Icons.",
   "type": "module",
   "main": "./dist/index.cjs",

@@ -1,6 +1,6 @@
 {
     "name": "kivex-react",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "description": "The official React component library for Kivex Icons.",
     "type": "module",
     "license": "MIT",

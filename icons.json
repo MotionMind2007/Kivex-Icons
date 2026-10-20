@@ -1,0 +1,3499 @@
+{
+    "alert": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "alert"
+        ]
+    },
+    "bookmark": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "bookmark"
+        ]
+    },
+    "chat": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "chat"
+        ]
+    },
+    "check": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "check"
+        ]
+    },
+    "download": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "download"
+        ]
+    },
+    "draft-book": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "draft",
+            "book"
+        ]
+    },
+    "file": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file"
+        ]
+    },
+    "folder": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "folder"
+        ]
+    },
+    "home": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "home"
+        ]
+    },
+    "menu-vertical": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "menu",
+            "vertical"
+        ]
+    },
+    "menu": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "menu"
+        ]
+    },
+    "notification": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "notification"
+        ]
+    },
+    "pen-line": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "pen",
+            "line"
+        ]
+    },
+    "plus": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "plus"
+        ]
+    },
+    "search": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "search"
+        ]
+    },
+    "send": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "send"
+        ]
+    },
+    "settings": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "settings"
+        ]
+    },
+    "user": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "user"
+        ]
+    },
+    "users": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "users"
+        ]
+    },
+    "x": {
+        "version": "1.0.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": []
+    },
+    "bar-chart": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "bar",
+            "chart"
+        ]
+    },
+    "bell-ring": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "bell",
+            "ring"
+        ]
+    },
+    "column-chart-plain-increasing": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "column",
+            "chart",
+            "plain",
+            "increasing"
+        ]
+    },
+    "column-chart": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "column",
+            "chart"
+        ]
+    },
+    "credit-card": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "credit",
+            "card"
+        ]
+    },
+    "eye-closed": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "eye",
+            "closed"
+        ]
+    },
+    "eye": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "eye"
+        ]
+    },
+    "heart": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "heart"
+        ]
+    },
+    "layout-dashboard": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "layout",
+            "dashboard"
+        ]
+    },
+    "moon": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "moon"
+        ]
+    },
+    "paperclip": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "paperclip"
+        ]
+    },
+    "pie-chart": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "pie",
+            "chart"
+        ]
+    },
+    "settings-control": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "settings",
+            "control"
+        ]
+    },
+    "shield-check": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "shield",
+            "check"
+        ]
+    },
+    "shopping-bag": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "shopping",
+            "bag"
+        ]
+    },
+    "sliders-horizontal": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "sliders",
+            "horizontal"
+        ]
+    },
+    "sliders-vertical": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "sliders",
+            "vertical"
+        ]
+    },
+    "trash-2": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "trash"
+        ]
+    },
+    "trash": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "trash"
+        ]
+    },
+    "user-check": {
+        "version": "1.1.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "user",
+            "check"
+        ]
+    },
+    "angry": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "angry"
+        ]
+    },
+    "annoyed": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "annoyed"
+        ]
+    },
+    "arrow-left-from-line": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "arrow",
+            "left",
+            "line"
+        ]
+    },
+    "arrow-left-to-line": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "arrow",
+            "left",
+            "line"
+        ]
+    },
+    "arrow-left": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "arrow",
+            "left"
+        ]
+    },
+    "arrow-right-from-line": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "arrow",
+            "right",
+            "line"
+        ]
+    },
+    "arrow-right-to-line": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "arrow",
+            "right",
+            "line"
+        ]
+    },
+    "arrow-up-left": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "arrow",
+            "up",
+            "left"
+        ]
+    },
+    "arrow-up-right": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "arrow",
+            "up",
+            "right"
+        ]
+    },
+    "calendar-check": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "calendar",
+            "check"
+        ]
+    },
+    "calendar-days": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "calendar",
+            "days"
+        ]
+    },
+    "calendar-x": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "calendar"
+        ]
+    },
+    "calendar": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "calendar"
+        ]
+    },
+    "chevron-down": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "chevron",
+            "down"
+        ]
+    },
+    "chevron-up": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "chevron",
+            "up"
+        ]
+    },
+    "chevrons-down-up": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "chevrons",
+            "down",
+            "up"
+        ]
+    },
+    "chevrons-down": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "chevrons",
+            "down"
+        ]
+    },
+    "chevrons-up-down": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "chevrons",
+            "up",
+            "down"
+        ]
+    },
+    "chevrons-up": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "chevrons",
+            "up"
+        ]
+    },
+    "circle-arrow-left": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "circle",
+            "arrow",
+            "left"
+        ]
+    },
+    "circle-arrow-out-up-left": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "circle",
+            "arrow",
+            "out",
+            "up",
+            "left"
+        ]
+    },
+    "circle-arrow-out-up-right": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "circle",
+            "arrow",
+            "out",
+            "up",
+            "right"
+        ]
+    },
+    "circle-chevron-down": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "circle",
+            "chevron",
+            "down"
+        ]
+    },
+    "circle-chevron-up": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "circle",
+            "chevron",
+            "up"
+        ]
+    },
+    "clock-arrow-left": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "clock",
+            "arrow",
+            "left"
+        ]
+    },
+    "external-link": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "external",
+            "link"
+        ]
+    },
+    "frown": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "frown"
+        ]
+    },
+    "grid-2x2-plus": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "grid",
+            "2x2",
+            "plus"
+        ]
+    },
+    "grid-2x2-x": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "grid",
+            "2x2"
+        ]
+    },
+    "grid-2x2": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "grid",
+            "2x2"
+        ]
+    },
+    "grid-3x3": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "grid",
+            "3x3"
+        ]
+    },
+    "laugh": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "laugh"
+        ]
+    },
+    "layout-grid": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "layout",
+            "grid"
+        ]
+    },
+    "list-chevrons-down-up": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "list",
+            "chevrons",
+            "down",
+            "up"
+        ]
+    },
+    "list-chevrons-up-down": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "list",
+            "chevrons",
+            "up",
+            "down"
+        ]
+    },
+    "meh": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "meh"
+        ]
+    },
+    "mic-off": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "mic",
+            "off"
+        ]
+    },
+    "mic-vintage": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "mic",
+            "vintage"
+        ]
+    },
+    "mic": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "mic"
+        ]
+    },
+    "phone-forward": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "phone",
+            "forward"
+        ]
+    },
+    "phone-incoming": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "phone",
+            "incoming"
+        ]
+    },
+    "phone-outgoing": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "phone",
+            "outgoing"
+        ]
+    },
+    "phone-x": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "phone"
+        ]
+    },
+    "phone": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "phone"
+        ]
+    },
+    "play": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "play"
+        ]
+    },
+    "smile-plus": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "smile",
+            "plus"
+        ]
+    },
+    "smile": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "smile"
+        ]
+    },
+    "square-arrow-out-up-left": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "square",
+            "arrow",
+            "out",
+            "up",
+            "left"
+        ]
+    },
+    "square-arrow-out-up-right": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "square",
+            "arrow",
+            "out",
+            "up",
+            "right"
+        ]
+    },
+    "square-arrow-up-left": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "square",
+            "arrow",
+            "up",
+            "left"
+        ]
+    },
+    "square-arrow-up-right": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "square",
+            "arrow",
+            "up",
+            "right"
+        ]
+    },
+    "square-chevron-down": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "square",
+            "chevron",
+            "down"
+        ]
+    },
+    "square-chevron-up": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "square",
+            "chevron",
+            "up"
+        ]
+    },
+    "star": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "star"
+        ]
+    },
+    "swap-horizontal": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "swap",
+            "horizontal"
+        ]
+    },
+    "swap-vertical": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "swap",
+            "vertical"
+        ]
+    },
+    "thumbs-down": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "thumbs",
+            "down"
+        ]
+    },
+    "thumbs-up": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "thumbs",
+            "up"
+        ]
+    },
+    "video-camera": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "video",
+            "camera"
+        ]
+    },
+    "video": {
+        "version": "1.2.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "video"
+        ]
+    },
+    "activity": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "activity"
+        ]
+    },
+    "arrow-up-from-line": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "arrow",
+            "up",
+            "line"
+        ]
+    },
+    "arrow-up-to-line": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "arrow",
+            "up",
+            "line"
+        ]
+    },
+    "briefcase-conveyor-belt": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "briefcase",
+            "conveyor",
+            "belt"
+        ]
+    },
+    "briefcase-medical": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "briefcase",
+            "medical"
+        ]
+    },
+    "briefcase": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "briefcase"
+        ]
+    },
+    "brush": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "brush"
+        ]
+    },
+    "circle-check-big": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "circle",
+            "check",
+            "big"
+        ]
+    },
+    "circle-check": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "circle",
+            "check"
+        ]
+    },
+    "columns-2": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "columns"
+        ]
+    },
+    "columns-3": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "columns"
+        ]
+    },
+    "compass": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "compass"
+        ]
+    },
+    "eraser": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "eraser"
+        ]
+    },
+    "file-volume": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "volume"
+        ]
+    },
+    "gem": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "gem"
+        ]
+    },
+    "generic-layout": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "generic",
+            "layout"
+        ]
+    },
+    "gift": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "gift"
+        ]
+    },
+    "globe-check": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "globe",
+            "check"
+        ]
+    },
+    "globe-lock": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "globe",
+            "lock"
+        ]
+    },
+    "globe-off": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "globe",
+            "off"
+        ]
+    },
+    "globe-x": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "globe"
+        ]
+    },
+    "globe": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "globe"
+        ]
+    },
+    "grid-3x3-plus": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "grid",
+            "3x3",
+            "plus"
+        ]
+    },
+    "handbag": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "handbag"
+        ]
+    },
+    "hashtag": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "hashtag"
+        ]
+    },
+    "heart-crack": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "heart",
+            "crack"
+        ]
+    },
+    "heart-off": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "heart",
+            "off"
+        ]
+    },
+    "info": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "info"
+        ]
+    },
+    "key-round": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "key",
+            "round"
+        ]
+    },
+    "key": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "key"
+        ]
+    },
+    "laugh-wink": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "laugh",
+            "wink"
+        ]
+    },
+    "layout-list": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "layout",
+            "list"
+        ]
+    },
+    "layout-panel-left": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "layout",
+            "panel",
+            "left"
+        ]
+    },
+    "layout-panel-right": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "layout",
+            "panel",
+            "right"
+        ]
+    },
+    "layout-panel-top": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "layout",
+            "panel",
+            "top"
+        ]
+    },
+    "layout-template": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "layout",
+            "template"
+        ]
+    },
+    "link-2-off": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "link",
+            "off"
+        ]
+    },
+    "link-2": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "link"
+        ]
+    },
+    "list-filter": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "list",
+            "filter"
+        ]
+    },
+    "list-ordered": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "list",
+            "ordered"
+        ]
+    },
+    "list-todo": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "list",
+            "todo"
+        ]
+    },
+    "list": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "list"
+        ]
+    },
+    "lock-keyhole": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "lock",
+            "keyhole"
+        ]
+    },
+    "lock-open-keyhole": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "lock",
+            "open",
+            "keyhole"
+        ]
+    },
+    "lock-open": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "lock",
+            "open"
+        ]
+    },
+    "lock": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "lock"
+        ]
+    },
+    "log-in": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "log"
+        ]
+    },
+    "log-out": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "log",
+            "out"
+        ]
+    },
+    "mail-check": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "mail",
+            "check"
+        ]
+    },
+    "mail-minus": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "mail",
+            "minus"
+        ]
+    },
+    "mail-open": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "mail",
+            "open"
+        ]
+    },
+    "mail-plus": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "mail",
+            "plus"
+        ]
+    },
+    "mail-x": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "mail"
+        ]
+    },
+    "mail": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "mail"
+        ]
+    },
+    "map-pin-check": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "map",
+            "pin",
+            "check"
+        ]
+    },
+    "map-pin": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "map",
+            "pin"
+        ]
+    },
+    "map-pinned": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "map",
+            "pinned"
+        ]
+    },
+    "map": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "map"
+        ]
+    },
+    "meh-blank": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "meh",
+            "blank"
+        ]
+    },
+    "menu-horizontal": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "menu",
+            "horizontal"
+        ]
+    },
+    "moon-star": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "moon",
+            "star"
+        ]
+    },
+    "mouse-pointer": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "mouse",
+            "pointer"
+        ]
+    },
+    "navigation-2": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "navigation"
+        ]
+    },
+    "navigation": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "navigation"
+        ]
+    },
+    "package-check": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "package",
+            "check"
+        ]
+    },
+    "paint-bucket": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "paint",
+            "bucket"
+        ]
+    },
+    "pen-tool": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "pen",
+            "tool"
+        ]
+    },
+    "pencil": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "pencil"
+        ]
+    },
+    "phone-call": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "phone",
+            "call"
+        ]
+    },
+    "phone-off": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "phone",
+            "off"
+        ]
+    },
+    "pin": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "pin"
+        ]
+    },
+    "pipette": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "pipette"
+        ]
+    },
+    "play-square": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "play",
+            "square"
+        ]
+    },
+    "radio": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "radio"
+        ]
+    },
+    "refresh-cw": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "refresh",
+            "cw"
+        ]
+    },
+    "rotate-cw-square": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "rotate",
+            "cw",
+            "square"
+        ]
+    },
+    "rows-2": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "rows"
+        ]
+    },
+    "rows-3": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "rows"
+        ]
+    },
+    "shield-question": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "shield",
+            "question"
+        ]
+    },
+    "shopping-cart": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "shopping",
+            "cart"
+        ]
+    },
+    "sim-card": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "sim",
+            "card"
+        ]
+    },
+    "smile-wink": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "smile",
+            "wink"
+        ]
+    },
+    "sparkles": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "sparkles"
+        ]
+    },
+    "split": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "split"
+        ]
+    },
+    "square-activity": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "square",
+            "activity"
+        ]
+    },
+    "sun-dim": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "sun",
+            "dim"
+        ]
+    },
+    "sun-moon": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "sun",
+            "moon"
+        ]
+    },
+    "sun": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "sun"
+        ]
+    },
+    "tag-plus": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "tag",
+            "plus"
+        ]
+    },
+    "tag-x": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "tag"
+        ]
+    },
+    "tags": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "tags"
+        ]
+    },
+    "target": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "target"
+        ]
+    },
+    "truck-electric": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "truck",
+            "electric"
+        ]
+    },
+    "truck": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "truck"
+        ]
+    },
+    "upload": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "upload"
+        ]
+    },
+    "van": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "van"
+        ]
+    },
+    "volume-1": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "volume"
+        ]
+    },
+    "volume-2": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "volume"
+        ]
+    },
+    "volume-off": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "volume",
+            "off"
+        ]
+    },
+    "volume-x": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "volume"
+        ]
+    },
+    "volume": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "volume"
+        ]
+    },
+    "wand": {
+        "version": "1.3.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "wand"
+        ]
+    },
+    "barcode-read": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "barcode",
+            "read"
+        ]
+    },
+    "baseline": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "baseline"
+        ]
+    },
+    "bitcoin": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "bitcoin"
+        ]
+    },
+    "bolt": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "bolt"
+        ]
+    },
+    "bot-smile": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "bot",
+            "smile"
+        ]
+    },
+    "braces": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "braces"
+        ]
+    },
+    "brain-circuit": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "brain",
+            "circuit"
+        ]
+    },
+    "calendar-clock": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "calendar",
+            "clock"
+        ]
+    },
+    "circle-user": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "circle",
+            "user"
+        ]
+    },
+    "clapperboard": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "clapperboard"
+        ]
+    },
+    "clipboard-check": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "clipboard",
+            "check"
+        ]
+    },
+    "clipboard-list": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "clipboard",
+            "list"
+        ]
+    },
+    "clipboard-plus": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "clipboard",
+            "plus"
+        ]
+    },
+    "clipboard-x": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "clipboard"
+        ]
+    },
+    "clipboard": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "clipboard"
+        ]
+    },
+    "code-xml": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "code",
+            "xml"
+        ]
+    },
+    "code": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "code"
+        ]
+    },
+    "cog": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "cog"
+        ]
+    },
+    "coin": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "coin"
+        ]
+    },
+    "copy-check": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "copy",
+            "check"
+        ]
+    },
+    "copy-x": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "copy"
+        ]
+    },
+    "copy": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "copy"
+        ]
+    },
+    "credit-card-disabled": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "credit",
+            "card",
+            "disabled"
+        ]
+    },
+    "credit-card-plus": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "credit",
+            "card",
+            "plus"
+        ]
+    },
+    "crown": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "crown"
+        ]
+    },
+    "divide": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "divide"
+        ]
+    },
+    "dollar-sign": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "dollar",
+            "sign"
+        ]
+    },
+    "equal": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "equal"
+        ]
+    },
+    "equalizer": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "equalizer"
+        ]
+    },
+    "euro": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "euro"
+        ]
+    },
+    "fast-forward": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "fast",
+            "forward"
+        ]
+    },
+    "file-diff": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "diff"
+        ]
+    },
+    "file-symlink": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "symlink"
+        ]
+    },
+    "film": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "film"
+        ]
+    },
+    "finger-print": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "finger",
+            "print"
+        ]
+    },
+    "gallery-horizontal": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "gallery",
+            "horizontal"
+        ]
+    },
+    "gallery-vertical": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "gallery",
+            "vertical"
+        ]
+    },
+    "hammer": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "hammer"
+        ]
+    },
+    "hat-glasses": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "hat",
+            "glasses"
+        ]
+    },
+    "image-minus": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "image",
+            "minus"
+        ]
+    },
+    "image-off": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "image",
+            "off"
+        ]
+    },
+    "image-plus": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "image",
+            "plus"
+        ]
+    },
+    "image": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "image"
+        ]
+    },
+    "images": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "images"
+        ]
+    },
+    "infinity": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "infinity"
+        ]
+    },
+    "layout-kanban": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "layout",
+            "kanban"
+        ]
+    },
+    "link-off": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "link",
+            "off"
+        ]
+    },
+    "link": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "link"
+        ]
+    },
+    "lock-check": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "lock",
+            "check"
+        ]
+    },
+    "lock-square": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "lock",
+            "square"
+        ]
+    },
+    "message-square-plus": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "message",
+            "square",
+            "plus"
+        ]
+    },
+    "message-square-text": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "message",
+            "square",
+            "text"
+        ]
+    },
+    "message-square": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "message",
+            "square"
+        ]
+    },
+    "minus": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "minus"
+        ]
+    },
+    "nut": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "nut"
+        ]
+    },
+    "pause-circle": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "pause",
+            "circle"
+        ]
+    },
+    "pause-square": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "pause",
+            "square"
+        ]
+    },
+    "pause": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "pause"
+        ]
+    },
+    "percent": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "percent"
+        ]
+    },
+    "pound-sterling": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "pound",
+            "sterling"
+        ]
+    },
+    "receipt-text": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "receipt",
+            "text"
+        ]
+    },
+    "receipt": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "receipt"
+        ]
+    },
+    "redo-2": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "redo"
+        ]
+    },
+    "repeat-1": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "repeat"
+        ]
+    },
+    "repeat": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "repeat"
+        ]
+    },
+    "rewind": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "rewind"
+        ]
+    },
+    "save": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "save"
+        ]
+    },
+    "scan-qr": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "scan",
+            "qr"
+        ]
+    },
+    "scissors": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "scissors"
+        ]
+    },
+    "search-minus": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "search",
+            "minus"
+        ]
+    },
+    "search-plus": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "search",
+            "plus"
+        ]
+    },
+    "shield-alert": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "shield",
+            "alert"
+        ]
+    },
+    "shield-ellipsis": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "shield",
+            "ellipsis"
+        ]
+    },
+    "shield-lock": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "shield",
+            "lock"
+        ]
+    },
+    "shield-off": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "shield",
+            "off"
+        ]
+    },
+    "shield-user": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "shield",
+            "user"
+        ]
+    },
+    "shield-x": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "shield"
+        ]
+    },
+    "shield": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "shield"
+        ]
+    },
+    "shopping-bag-check": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "shopping",
+            "bag",
+            "check"
+        ]
+    },
+    "shopping-bag-plus": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "shopping",
+            "bag",
+            "plus"
+        ]
+    },
+    "shopping-cart-plus": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "shopping",
+            "cart",
+            "plus"
+        ]
+    },
+    "shuffle": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "shuffle"
+        ]
+    },
+    "skip-back": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "skip",
+            "back"
+        ]
+    },
+    "skip-forward": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "skip",
+            "forward"
+        ]
+    },
+    "sparkles-text": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "sparkles",
+            "text"
+        ]
+    },
+    "square-user": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "square",
+            "user"
+        ]
+    },
+    "stop-circle": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "stop",
+            "circle"
+        ]
+    },
+    "table-properties": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "table",
+            "properties"
+        ]
+    },
+    "tag-check": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "tag",
+            "check"
+        ]
+    },
+    "tag-minus": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "tag",
+            "minus"
+        ]
+    },
+    "terminal": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "terminal"
+        ]
+    },
+    "ticket": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "ticket"
+        ]
+    },
+    "undo-2": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "undo"
+        ]
+    },
+    "unlink": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "unlink"
+        ]
+    },
+    "user-cog": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "user",
+            "cog"
+        ]
+    },
+    "user-lock": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "user",
+            "lock"
+        ]
+    },
+    "user-minus": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "user",
+            "minus"
+        ]
+    },
+    "user-plus": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "user",
+            "plus"
+        ]
+    },
+    "user-search": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "user",
+            "search"
+        ]
+    },
+    "user-x": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "user"
+        ]
+    },
+    "users-shield": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "users",
+            "shield"
+        ]
+    },
+    "wallet-cards": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "wallet",
+            "cards"
+        ]
+    },
+    "wallet": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "wallet"
+        ]
+    },
+    "wand-sparkles": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "wand",
+            "sparkles"
+        ]
+    },
+    "wrench": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "wrench"
+        ]
+    },
+    "zap-off": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "zap",
+            "off"
+        ]
+    },
+    "zap": {
+        "version": "1.4.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "zap"
+        ]
+    },
+    "area-chart": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "area",
+            "chart"
+        ]
+    },
+    "arrow-down-from-line": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "arrow",
+            "down",
+            "line"
+        ]
+    },
+    "arrow-down-left": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "arrow",
+            "down",
+            "left"
+        ]
+    },
+    "arrow-down-right": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "arrow",
+            "down",
+            "right"
+        ]
+    },
+    "arrow-down-to-line": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "arrow",
+            "down",
+            "line"
+        ]
+    },
+    "arrow-down": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "arrow",
+            "down"
+        ]
+    },
+    "battery-charging": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "battery",
+            "charging"
+        ]
+    },
+    "battery-low": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "battery",
+            "low"
+        ]
+    },
+    "battery-medium": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "battery",
+            "medium"
+        ]
+    },
+    "battery-warning": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "battery",
+            "warning"
+        ]
+    },
+    "battery": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "battery"
+        ]
+    },
+    "bell-off": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "bell",
+            "off"
+        ]
+    },
+    "bell": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "bell"
+        ]
+    },
+    "blocks": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "blocks"
+        ]
+    },
+    "bluetooth-connected": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "bluetooth",
+            "connected"
+        ]
+    },
+    "bluetooth-off": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "bluetooth",
+            "off"
+        ]
+    },
+    "bluetooth-searching": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "bluetooth",
+            "searching"
+        ]
+    },
+    "bluetooth": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "bluetooth"
+        ]
+    },
+    "bookmark-check": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "bookmark",
+            "check"
+        ]
+    },
+    "bookmark-minus": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "bookmark",
+            "minus"
+        ]
+    },
+    "bookmark-plus": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "bookmark",
+            "plus"
+        ]
+    },
+    "bookmark-x": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "bookmark"
+        ]
+    },
+    "box": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "box"
+        ]
+    },
+    "boxes": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "boxes"
+        ]
+    },
+    "calendar-heart": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "calendar",
+            "heart"
+        ]
+    },
+    "calendar-minus-2": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "calendar",
+            "minus"
+        ]
+    },
+    "calendar-minus": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "calendar",
+            "minus"
+        ]
+    },
+    "calendar-plus-2": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "calendar",
+            "plus"
+        ]
+    },
+    "calendar-plus": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "calendar",
+            "plus"
+        ]
+    },
+    "chart-line": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "chart",
+            "line"
+        ]
+    },
+    "chat-bubble-left-right": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "chat",
+            "bubble",
+            "left",
+            "right"
+        ]
+    },
+    "check-check": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "check",
+            "check"
+        ]
+    },
+    "chevron-left": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "chevron",
+            "left"
+        ]
+    },
+    "chevron-right": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "chevron",
+            "right"
+        ]
+    },
+    "chevrons-left-right": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "chevrons",
+            "left",
+            "right"
+        ]
+    },
+    "chevrons-left": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "chevrons",
+            "left"
+        ]
+    },
+    "chevrons-right": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "chevrons",
+            "right"
+        ]
+    },
+    "circle-arrow-down": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "circle",
+            "arrow",
+            "down"
+        ]
+    },
+    "circle-arrow-right": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "circle",
+            "arrow",
+            "right"
+        ]
+    },
+    "circle-arrow-up": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "circle",
+            "arrow",
+            "up"
+        ]
+    },
+    "circle-chevron-left": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "circle",
+            "chevron",
+            "left"
+        ]
+    },
+    "circle-chevron-right": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "circle",
+            "chevron",
+            "right"
+        ]
+    },
+    "circle-x": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "circle"
+        ]
+    },
+    "cloud-hail": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "cloud",
+            "hail"
+        ]
+    },
+    "cloud-lightning": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "cloud",
+            "lightning"
+        ]
+    },
+    "cloud-moon": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "cloud",
+            "moon"
+        ]
+    },
+    "cloud-off": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "cloud",
+            "off"
+        ]
+    },
+    "cloud-rain-wind": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "cloud",
+            "rain",
+            "wind"
+        ]
+    },
+    "cloud-rain": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "cloud",
+            "rain"
+        ]
+    },
+    "cloud-snow": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "cloud",
+            "snow"
+        ]
+    },
+    "cloud-sun": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "cloud",
+            "sun"
+        ]
+    },
+    "cloud-upload": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "cloud",
+            "upload"
+        ]
+    },
+    "cloud": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "cloud"
+        ]
+    },
+    "command": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "command"
+        ]
+    },
+    "component": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "component"
+        ]
+    },
+    "cpu-ai": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "cpu",
+            "ai"
+        ]
+    },
+    "cpu": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "cpu"
+        ]
+    },
+    "database-backup": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "database",
+            "backup"
+        ]
+    },
+    "database-zap": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "database",
+            "zap"
+        ]
+    },
+    "database": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "database"
+        ]
+    },
+    "ear-off": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "ear",
+            "off"
+        ]
+    },
+    "ear": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "ear"
+        ]
+    },
+    "file-check-2": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "check"
+        ]
+    },
+    "file-check": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "check"
+        ]
+    },
+    "file-clock": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "clock"
+        ]
+    },
+    "file-code-corner": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "code",
+            "corner"
+        ]
+    },
+    "file-code": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "code"
+        ]
+    },
+    "file-input": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "input"
+        ]
+    },
+    "file-json-2": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "json"
+        ]
+    },
+    "file-json": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "json"
+        ]
+    },
+    "file-lock": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "lock"
+        ]
+    },
+    "file-minus-2": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "minus"
+        ]
+    },
+    "file-minus": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "minus"
+        ]
+    },
+    "file-output": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "output"
+        ]
+    },
+    "file-plus-2": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "plus"
+        ]
+    },
+    "file-plus": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "plus"
+        ]
+    },
+    "file-question-mark": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "question",
+            "mark"
+        ]
+    },
+    "file-search-2": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "search"
+        ]
+    },
+    "file-text": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file",
+            "text"
+        ]
+    },
+    "file-x-2": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file"
+        ]
+    },
+    "file-x": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "file"
+        ]
+    },
+    "folder-check": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "folder",
+            "check"
+        ]
+    },
+    "folder-down": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "folder",
+            "down"
+        ]
+    },
+    "folder-heart": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "folder",
+            "heart"
+        ]
+    },
+    "folder-lock": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "folder",
+            "lock"
+        ]
+    },
+    "folder-minus": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "folder",
+            "minus"
+        ]
+    },
+    "folder-open": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "folder",
+            "open"
+        ]
+    },
+    "folder-plus": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "folder",
+            "plus"
+        ]
+    },
+    "folder-root": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "folder",
+            "root"
+        ]
+    },
+    "folder-search-2": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "folder",
+            "search"
+        ]
+    },
+    "folder-search": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "folder",
+            "search"
+        ]
+    },
+    "folder-up": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "folder",
+            "up"
+        ]
+    },
+    "folder-x": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "folder"
+        ]
+    },
+    "git-branch-minus": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "git",
+            "branch",
+            "minus"
+        ]
+    },
+    "git-branch-plus": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "git",
+            "branch",
+            "plus"
+        ]
+    },
+    "git-branch": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "git",
+            "branch"
+        ]
+    },
+    "git-commit-horizontal": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "git",
+            "commit",
+            "horizontal"
+        ]
+    },
+    "git-commit-vertical": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "git",
+            "commit",
+            "vertical"
+        ]
+    },
+    "git-compare-arrows": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "git",
+            "compare",
+            "arrows"
+        ]
+    },
+    "git-compare": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "git",
+            "compare"
+        ]
+    },
+    "git-fork": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "git",
+            "fork"
+        ]
+    },
+    "git-merge": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "git",
+            "merge"
+        ]
+    },
+    "git-pull-request": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "git",
+            "pull",
+            "request"
+        ]
+    },
+    "headphones": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "headphones"
+        ]
+    },
+    "laptop": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "laptop"
+        ]
+    },
+    "layers": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "layers"
+        ]
+    },
+    "message-square-more": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "message",
+            "square",
+            "more"
+        ]
+    },
+    "monitor": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "monitor"
+        ]
+    },
+    "package-minus": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "package",
+            "minus"
+        ]
+    },
+    "package-open": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "package",
+            "open"
+        ]
+    },
+    "package-plus": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "package",
+            "plus"
+        ]
+    },
+    "package-x": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "package"
+        ]
+    },
+    "package": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "package"
+        ]
+    },
+    "plug-zap": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "plug",
+            "zap"
+        ]
+    },
+    "plug": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "plug"
+        ]
+    },
+    "power-off": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "power",
+            "off"
+        ]
+    },
+    "power": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "power"
+        ]
+    },
+    "qr-code": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "qr",
+            "code"
+        ]
+    },
+    "scan-barcode": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "scan",
+            "barcode"
+        ]
+    },
+    "scan-face": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "scan",
+            "face"
+        ]
+    },
+    "scan-line": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "scan",
+            "line"
+        ]
+    },
+    "scan": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "scan"
+        ]
+    },
+    "server-crash": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "server",
+            "crash"
+        ]
+    },
+    "server-off": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "server",
+            "off"
+        ]
+    },
+    "server": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "server"
+        ]
+    },
+    "smartphone": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "smartphone"
+        ]
+    },
+    "speaker": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "speaker"
+        ]
+    },
+    "square-arrow-down-left": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "square",
+            "arrow",
+            "down",
+            "left"
+        ]
+    },
+    "square-arrow-down-right": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "square",
+            "arrow",
+            "down",
+            "right"
+        ]
+    },
+    "square-chevron-left": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "square",
+            "chevron",
+            "left"
+        ]
+    },
+    "square-chevron-right": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "square",
+            "chevron",
+            "right"
+        ]
+    },
+    "square-x": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "square"
+        ]
+    },
+    "square": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "square"
+        ]
+    },
+    "tablet": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "tablet"
+        ]
+    },
+    "tv": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "tv"
+        ]
+    },
+    "wifi-off": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "wifi",
+            "off"
+        ]
+    },
+    "wifi": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "wifi"
+        ]
+    },
+    "window-restore": {
+        "version": "1.5.0",
+        "author": "MD. Saiful Alom Siam",
+        "tags": [
+            "window",
+            "restore"
+        ]
+    }
+}

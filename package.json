@@ -12,6 +12,7 @@
     "gen:solid": "pnpm --filter kivex-solid generate",
     "gen:svelte": "pnpm --filter kivex-svelte generate",
     "gen:vue": "pnpm --filter kivex-vue generate",
+    "gen:react-native": "pnpm --filter kivex-react-native generate",
     "gen:flutter": "pnpm --filter kivex_flutter generate",
     "gen:all": "pnpm --filter \"kivex-*\" generate",
 
@@ -22,6 +23,7 @@
     "build:svelte": "pnpm --filter kivex-svelte build",
     "build:vue": "pnpm --filter kivex-vue build",
     "build:flutter": "pnpm --filter kivex_flutter generate",
+    "build:react-native": "pnpm --filter kivex-react-native build",
     "build:all": "pnpm --filter \"kivex-*\" build"
   },
   "repository": {

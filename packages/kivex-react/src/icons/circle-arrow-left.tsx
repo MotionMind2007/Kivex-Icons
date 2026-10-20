@@ -21,7 +21,7 @@ export const CircleArrowLeft = forwardRef<SVGSVGElement, IconProps>(
         strokeWidth={strokeWidth}
         {...props}
       >
-        <path d="m12 8-3.91 3.8a.3.3 0 0 0 0 .4L12 16" /><path d="M9 12h7" /><circle cx={12} cy={12} r={10} />
+        <path d="m12 8-3.91 3.87c-.12.07-.12.19 0 .26L12 16" /><path d="M9 12h7" /><path d="M12 22a10 10 0 1 1 0-20 10 10 0 0 1 0 20Z" />
       </IconBase>
     );
   }

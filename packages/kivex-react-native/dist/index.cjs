@@ -137,6 +137,152 @@ var Annoyed = react.forwardRef(
   }
 );
 Annoyed.displayName = "Annoyed";
+var AreaChart = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3 3v16c0 1.1.9 2 2 2h16" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m7.3 11.7 2.56-2.56a.2.2 0 0 1 .28 0l3.23 3.23a.2.2 0 0 0 .27.02l5.03-4.12a.2.2 0 0 1 .33.15V16a1 1 0 0 1-1 1H8a1 1 0 0 1-1-1v-3.59a1 1 0 0 1 .3-.7Z" })
+        ]
+      }
+    );
+  }
+);
+AreaChart.displayName = "AreaChart";
+var ArrowDownFromLine = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m6 15 5.8 5.87c.1.17.29.17.4 0L18 15" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 19V7" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M5 3h14" })
+        ]
+      }
+    );
+  }
+);
+ArrowDownFromLine.displayName = "ArrowDownFromLine";
+var ArrowDownLeft = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17 17H7.5a.5.5 0 0 1-.5-.5V7" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m16 8-9 9" })
+        ]
+      }
+    );
+  }
+);
+ArrowDownLeft.displayName = "ArrowDownLeft";
+var ArrowDownRight = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M7 17h9.5a.5.5 0 0 0 .5-.5V7" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m8 8 9 9" })
+        ]
+      }
+    );
+  }
+);
+ArrowDownRight.displayName = "ArrowDownRight";
+var ArrowDownToLine = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m6 11 5.8 5.87c.1.17.29.17.4 0L18 11" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 15V3" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M5 21h14" })
+        ]
+      }
+    );
+  }
+);
+ArrowDownToLine.displayName = "ArrowDownToLine";
+var ArrowDown = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m6 13 5.8 5.87c.1.17.29.17.4 0L18 13" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 17V5" })
+        ]
+      }
+    );
+  }
+);
+ArrowDown.displayName = "ArrowDown";
 var ArrowLeftFromLine = react.forwardRef(
   ({
     size = 24,
@@ -439,6 +585,158 @@ var Baseline = react.forwardRef(
   }
 );
 Baseline.displayName = "Baseline";
+var BatteryCharging = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6 6H4a2 2 0 0 0-2 2v8c0 1.1.9 2 2 2h2m8-12h2a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M22 10v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m11 8-2.94 3.92q-.03.06.04.08h3.8q.07.02.04.08L9 16" })
+        ]
+      }
+    );
+  }
+);
+BatteryCharging.displayName = "BatteryCharging";
+var BatteryLow = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 16, height: 12, x: 2, y: 6, rx: 2 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M22 10v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6 10v4" })
+        ]
+      }
+    );
+  }
+);
+BatteryLow.displayName = "BatteryLow";
+var BatteryMedium = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 16, height: 12, x: 2, y: 6, rx: 2 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M22 10v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6 10v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M10 10v4" })
+        ]
+      }
+    );
+  }
+);
+BatteryMedium.displayName = "BatteryMedium";
+var BatteryWarning = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6 6H4a2 2 0 0 0-2 2v8c0 1.1.9 2 2 2h2m8-12h2a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M22 10v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M10 7v6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M10.01 17H10" })
+        ]
+      }
+    );
+  }
+);
+BatteryWarning.displayName = "BatteryWarning";
+var Battery = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 16, height: 12, x: 2, y: 6, rx: 2 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M22 10v4" })
+        ]
+      }
+    );
+  }
+);
+Battery.displayName = "Battery";
+var BellOff = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 3.81A6 6 0 0 1 12 3c3.44 0 6.22 2.95 6.22 6.59V13" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6.5 6.5a7 7 0 0 0-.72 3.09v3.82q0 .88-.38 1.68l-1.02 2.17q-.38.8-.38 1.69V19h15" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M10 22h4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m2 2 20 20" })
+        ]
+      }
+    );
+  }
+);
+BellOff.displayName = "BellOff";
 var BellRing = react.forwardRef(
   ({
     size = 24,
@@ -465,6 +763,30 @@ var BellRing = react.forwardRef(
   }
 );
 BellRing.displayName = "BellRing";
+var Bell = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M5.78 9.59C5.78 5.95 8.56 3 12 3s6.22 2.95 6.22 6.59v3.82q0 .89.38 1.68l1.02 2.17q.38.8.38 1.69V19H4v-.05q0-.89.38-1.69L5.4 15.1q.38-.8.38-1.68z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M10 22h4" })
+        ]
+      }
+    );
+  }
+);
+Bell.displayName = "Bell";
 var Bitcoin = react.forwardRef(
   ({
     size = 24,
@@ -491,6 +813,127 @@ var Bitcoin = react.forwardRef(
   }
 );
 Bitcoin.displayName = "Bitcoin";
+var Blocks = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M2 14h8m-8 0v7a1 1 0 0 0 1 1h7m-8-8V7a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v7m0 0h7a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1h-7m0-8v8" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 8, height: 8, x: 14, y: 2, rx: 1 })
+        ]
+      }
+    );
+  }
+);
+Blocks.displayName = "Blocks";
+var BluetoothConnected = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 12V2.12q.02-.08.09-.03l4.87 4.87q.03.04 0 .08zm0 0v9.88q.02.08.09.03l4.87-4.87a.05.05 0 0 0 0-.08zm0 0L7 7m5 5-5 5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M18 12h3" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3 12h3" })
+        ]
+      }
+    );
+  }
+);
+BluetoothConnected.displayName = "BluetoothConnected";
+var BluetoothOff = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m12 12-5 5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m15 9 1.96-1.96a.05.05 0 0 0 0-.08L12.1 2.1a.05.05 0 0 0-.09.03V6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 12v9.88q.02.08.09.03L17 17" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m2 2 20 20" })
+        ]
+      }
+    );
+  }
+);
+BluetoothOff.displayName = "BluetoothOff";
+var BluetoothSearching = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 12V2.12q.02-.08.09-.03l4.87 4.87q.03.04 0 .08zm0 0v9.88q.02.08.09.03l4.87-4.87a.05.05 0 0 0 0-.08zm0 0L7 7m5 5-5 5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M21 9a5 5 0 0 1 0 6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M18 12.01V12" })
+        ]
+      }
+    );
+  }
+);
+BluetoothSearching.displayName = "BluetoothSearching";
+var Bluetooth = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsx(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 12V2.12q.02-.08.09-.03l4.87 4.87q.03.04 0 .08zm0 0v9.88q.02.08.09.03l4.87-4.87a.05.05 0 0 0 0-.08zm0 0L7 7m5 5-5 5" })
+      }
+    );
+  }
+);
+Bluetooth.displayName = "Bluetooth";
 var Bolt = react.forwardRef(
   ({
     size = 24,
@@ -515,6 +958,104 @@ var Bolt = react.forwardRef(
   }
 );
 Bolt.displayName = "Bolt";
+var BookmarkCheck = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m12.52 18.09 4.96 3a1 1 0 0 0 1.52-.86V4a1 1 0 0 0-1-1H6a1 1 0 0 0-1 1v16.23a1 1 0 0 0 1.52.86l4.96-3a1 1 0 0 1 1.04 0Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m9 10 1.86 1.86c.08.08.2.08.28 0L15 8" })
+        ]
+      }
+    );
+  }
+);
+BookmarkCheck.displayName = "BookmarkCheck";
+var BookmarkMinus = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m12.52 18.09 4.96 3a1 1 0 0 0 1.52-.86V4a1 1 0 0 0-1-1H6a1 1 0 0 0-1 1v16.23a1 1 0 0 0 1.52.86l4.96-3a1 1 0 0 1 1.04 0Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 11h6" })
+        ]
+      }
+    );
+  }
+);
+BookmarkMinus.displayName = "BookmarkMinus";
+var BookmarkPlus = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m12.52 18.09 4.96 3a1 1 0 0 0 1.52-.86V4a1 1 0 0 0-1-1H6a1 1 0 0 0-1 1v16.23a1 1 0 0 0 1.52.86l4.96-3a1 1 0 0 1 1.04 0Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 11h6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 8v6" })
+        ]
+      }
+    );
+  }
+);
+BookmarkPlus.displayName = "BookmarkPlus";
+var BookmarkX = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m12.52 18.09 4.96 3a1 1 0 0 0 1.52-.86V4a1 1 0 0 0-1-1H6a1 1 0 0 0-1 1v16.23a1 1 0 0 0 1.52.86l4.96-3a1 1 0 0 1 1.04 0Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m15 7-6 6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m9 7 6 6" })
+        ]
+      }
+    );
+  }
+);
+BookmarkX.displayName = "BookmarkX";
 var Bookmark = react.forwardRef(
   ({
     size = 24,
@@ -566,6 +1107,62 @@ var BotSmile = react.forwardRef(
   }
 );
 BotSmile.displayName = "BotSmile";
+var Box = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m3.5 7.5 8.1 4.32a1 1 0 0 0 .8 0l8.1-4.32" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 12v9.5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m12.49 2.27 8 4.44a1 1 0 0 1 .51.88v8.82a1 1 0 0 1-.51.88l-8 4.44a1 1 0 0 1-.98 0l-8-4.44A1 1 0 0 1 3 16.4V7.6c0-.36.2-.7.51-.88l8-4.44a1 1 0 0 1 .98 0Z" })
+        ]
+      }
+    );
+  }
+);
+Box.displayName = "Box";
+var Boxes = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m7.5 5 4.26 1.96q.24.07.48 0L16.5 5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m12.5 14 4.26 1.96q.24.07.48 0L21.5 14" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m2.5 14 4.26 1.96q.24.07.48 0L11.5 14" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 7v11.5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M7 16v5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17 16v5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m12.48 2.27 4 2.2a1 1 0 0 1 .52.87v4.32a1 1 0 0 1-.52.87l-4 2.2a1 1 0 0 1-.96 0l-4-2.2A1 1 0 0 1 7 9.66V5.34c0-.36.2-.7.52-.87l4-2.2a1 1 0 0 1 .96 0Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m7.48 11.27 4 2.2a1 1 0 0 1 .52.87v4.32a1 1 0 0 1-.52.87l-4 2.2a1 1 0 0 1-.96 0l-4-2.2a1 1 0 0 1-.52-.87v-4.32c0-.36.2-.7.52-.87l4-2.2a1 1 0 0 1 .96 0Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m17.48 11.27 4 2.2a1 1 0 0 1 .52.87v4.32a1 1 0 0 1-.52.87l-4 2.2a1 1 0 0 1-.96 0l-4-2.2a1 1 0 0 1-.52-.87v-4.32c0-.36.2-.7.52-.87l4-2.2a1 1 0 0 1 .96 0Z" })
+        ]
+      }
+    );
+  }
+);
+Boxes.displayName = "Boxes";
 var Braces = react.forwardRef(
   ({
     size = 24,
@@ -822,6 +1419,143 @@ var CalendarDays = react.forwardRef(
   }
 );
 CalendarDays.displayName = "CalendarDays";
+var CalendarHeart = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M21 12V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14c0 1.1.9 2 2 2h8" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 2v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M16 2v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3 10h18" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m18.07 16.6.42.48h.02l.42-.48c1.1-1.25 3.07-.42 3.07 1.3 0 .53-.22 1.05-.6 1.4l-2.83 2.67a.1.1 0 0 1-.14 0l-2.83-2.66c-.38-.36-.6-.88-.6-1.42 0-1.71 1.97-2.54 3.07-1.29Z" })
+        ]
+      }
+    );
+  }
+);
+CalendarHeart.displayName = "CalendarHeart";
+var CalendarMinus2 = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M5 4h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6c0-1.1.9-2 2-2Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 2v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M16 2v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3 10h18" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M10 16h4" })
+        ]
+      }
+    );
+  }
+);
+CalendarMinus2.displayName = "CalendarMinus2";
+var CalendarMinus = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M21 15V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14c0 1.1.9 2 2 2h8" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 2v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M16 2v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3 10h18" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M16 19h6" })
+        ]
+      }
+    );
+  }
+);
+CalendarMinus.displayName = "CalendarMinus";
+var CalendarPlus2 = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M5 4h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6c0-1.1.9-2 2-2Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 2v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M16 2v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3 10h18" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M10 16h4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 14v4" })
+        ]
+      }
+    );
+  }
+);
+CalendarPlus2.displayName = "CalendarPlus2";
+var CalendarPlus = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M21 12V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14c0 1.1.9 2 2 2h8" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 2v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M16 2v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3 10h18" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M16 19h6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M19 16v6" })
+        ]
+      }
+    );
+  }
+);
+CalendarPlus.displayName = "CalendarPlus";
 var CalendarX = react.forwardRef(
   ({
     size = 24,
@@ -876,6 +1610,56 @@ var Calendar = react.forwardRef(
   }
 );
 Calendar.displayName = "Calendar";
+var ChartLine = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3 3v16c0 1.1.9 2 2 2h16" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m7 13 2.86-2.86a.2.2 0 0 1 .28 0l3.72 3.72c.08.08.2.08.28 0L19 9" })
+        ]
+      }
+    );
+  }
+);
+ChartLine.displayName = "ChartLine";
+var ChatBubbleLeftRight = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M18 7.9V5.57C18 4.71 17.28 4 16.4 4H3.6C2.72 4 2 4.7 2 5.57v11.04c0 .32.37.5.64.31l2.94-2.14q.42-.3.95-.3H8" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M15 17.67H9.4c-.77 0-1.4-.65-1.4-1.45V9.45C8 8.65 8.63 8 9.4 8h11.2c.77 0 1.4.65 1.4 1.45v10.19c0 .3-.33.47-.56.29l-2.57-1.98a1.4 1.4 0 0 0-.83-.28z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 11h6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 14h4" })
+        ]
+      }
+    );
+  }
+);
+ChatBubbleLeftRight.displayName = "ChatBubbleLeftRight";
 var Chat = react.forwardRef(
   ({
     size = 24,
@@ -901,6 +1685,30 @@ var Chat = react.forwardRef(
   }
 );
 Chat.displayName = "Chat";
+var CheckCheck = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m2 11.61 5.28 5.24c.2.2.55.2.75 0L19 5.5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m22 9-7.65 8.12a.5.5 0 0 1-.71.02L13 16.5" })
+        ]
+      }
+    );
+  }
+);
+CheckCheck.displayName = "CheckCheck";
 var Check = react.forwardRef(
   ({
     size = 24,
@@ -943,6 +1751,48 @@ var ChevronDown = react.forwardRef(
   }
 );
 ChevronDown.displayName = "ChevronDown";
+var ChevronLeft = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsx(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m15 6-5.85 5.65c-.2.2-.2.5 0 .7L15 18" })
+      }
+    );
+  }
+);
+ChevronLeft.displayName = "ChevronLeft";
+var ChevronRight = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsx(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m9 6 5.85 5.65c.2.2.2.5 0 .7L9 18" })
+      }
+    );
+  }
+);
+ChevronRight.displayName = "ChevronRight";
 var ChevronUp = react.forwardRef(
   ({
     size = 24,
@@ -1012,6 +1862,78 @@ var ChevronsDown = react.forwardRef(
   }
 );
 ChevronsDown.displayName = "ChevronsDown";
+var ChevronsLeftRight = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m15 7 4.87 4.7a.4.4 0 0 1 0 .6L15 17" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m9 7-4.87 4.7a.4.4 0 0 0 0 .6L9 17" })
+        ]
+      }
+    );
+  }
+);
+ChevronsLeftRight.displayName = "ChevronsLeftRight";
+var ChevronsLeft = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m18 7-4.87 4.7a.4.4 0 0 0 0 .6L18 17" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m11 7-4.87 4.7a.4.4 0 0 0 0 .6L11 17" })
+        ]
+      }
+    );
+  }
+);
+ChevronsLeft.displayName = "ChevronsLeft";
+var ChevronsRight = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m6 7 4.87 4.7a.4.4 0 0 1 0 .6L6 17" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m13 7 4.87 4.7a.4.4 0 0 1 0 .6L13 17" })
+        ]
+      }
+    );
+  }
+);
+ChevronsRight.displayName = "ChevronsRight";
 var ChevronsUpDown = react.forwardRef(
   ({
     size = 24,
@@ -1060,6 +1982,31 @@ var ChevronsUp = react.forwardRef(
   }
 );
 ChevronsUp.displayName = "ChevronsUp";
+var CircleArrowDown = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m8 12 3.87 3.91c.07.12.19.12.26 0L16 12" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 15V8" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 12, cy: 12, r: 10 })
+        ]
+      }
+    );
+  }
+);
+CircleArrowDown.displayName = "CircleArrowDown";
 var CircleArrowLeft = react.forwardRef(
   ({
     size = 24,
@@ -1076,9 +2023,9 @@ var CircleArrowLeft = react.forwardRef(
         strokeWidth,
         ...props,
         children: [
-          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m12 8-3.91 3.8a.3.3 0 0 0 0 .4L12 16" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m12 8-3.91 3.87c-.12.07-.12.19 0 .26L12 16" }),
           /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 12h7" }),
-          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 12, cy: 12, r: 10 })
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 22a10 10 0 1 1 0-20 10 10 0 0 1 0 20Z" })
         ]
       }
     );
@@ -1135,6 +2082,56 @@ var CircleArrowOutUpRight = react.forwardRef(
   }
 );
 CircleArrowOutUpRight.displayName = "CircleArrowOutUpRight";
+var CircleArrowRight = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m12 8 3.91 3.87c.12.07.12.19 0 .26L12 16" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M15 12H8" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20Z" })
+        ]
+      }
+    );
+  }
+);
+CircleArrowRight.displayName = "CircleArrowRight";
+var CircleArrowUp = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m8 12 3.87-3.91c.07-.12.19-.12.26 0L16 12" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 9v7" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M22 12a10 10 0 1 0-20 0 10 10 0 0 0 20 0Z" })
+        ]
+      }
+    );
+  }
+);
+CircleArrowUp.displayName = "CircleArrowUp";
 var CircleCheckBig = react.forwardRef(
   ({
     size = 24,
@@ -1207,6 +2204,54 @@ var CircleChevronDown = react.forwardRef(
   }
 );
 CircleChevronDown.displayName = "CircleChevronDown";
+var CircleChevronLeft = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m14 16-3.65-3.65a.5.5 0 0 1 0-.7L14 8" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 2a10 10 0 1 1 0 20 10 10 0 0 1 0-20Z" })
+        ]
+      }
+    );
+  }
+);
+CircleChevronLeft.displayName = "CircleChevronLeft";
+var CircleChevronRight = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m10 16 3.65-3.65a.5.5 0 0 0 0-.7L10 8" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Z" })
+        ]
+      }
+    );
+  }
+);
+CircleChevronRight.displayName = "CircleChevronRight";
 var CircleChevronUp = react.forwardRef(
   ({
     size = 24,
@@ -1256,6 +2301,31 @@ var CircleUser = react.forwardRef(
   }
 );
 CircleUser.displayName = "CircleUser";
+var CircleX = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 12, cy: 12, r: 10 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m9 9 6 6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m15 9-6 6" })
+        ]
+      }
+    );
+  }
+);
+CircleX.displayName = "CircleX";
 var Clapperboard = react.forwardRef(
   ({
     size = 24,
@@ -1444,6 +2514,266 @@ var ClockArrowLeft = react.forwardRef(
   }
 );
 ClockArrowLeft.displayName = "ClockArrowLeft";
+var CloudHail = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20.79 14q.21-.65.21-1.36a4.3 4.3 0 0 0-4.67-4.35A5.3 5.3 0 0 0 11.47 5a5.4 5.4 0 0 0-5.3 5.45A3.23 3.23 0 0 0 3 13.73c0 1.38.83 2.56 2 3.04" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 15v2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 16v2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17 15v2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.01 21H9" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13.01 22H13" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17.01 21H17" })
+        ]
+      }
+    );
+  }
+);
+CloudHail.displayName = "CloudHail";
+var CloudLightning = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m12.5 13-2.45 3.71q-.03.07.04.08h3.81q.07.02.04.08L11 21" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M18 16.81c1.74-.54 3-2.2 3-4.17a4.3 4.3 0 0 0-4.67-4.35A5.3 5.3 0 0 0 11.47 5a5.4 5.4 0 0 0-5.3 5.45A3.23 3.23 0 0 0 3 13.73C3 15.53 4.42 17 6.18 17" })
+        ]
+      }
+    );
+  }
+);
+CloudLightning.displayName = "CloudLightning";
+var CloudMoon = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.59 12a4.1 4.1 0 0 1 3.79 2.47l.33-.02a3.28 3.28 0 1 1 0 6.55H5.47A2.46 2.46 0 0 1 3 18.55a2.46 2.46 0 0 1 2.47-2.47A4.1 4.1 0 0 1 9.6 12Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M18.5 12.3a5.5 5.5 0 0 0 1.77-3.12c.13-.61-.45-1.09-1.08-1.04-3.77.3-4.29-1.85-4.28-3.53 0-.61-.5-1.13-1.08-.94a5 5 0 0 0-3.4 4.31" })
+        ]
+      }
+    );
+  }
+);
+CloudMoon.displayName = "CloudMoon";
+var CloudOff = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20.79 15q.21-.65.21-1.36a4.3 4.3 0 0 0-4.67-4.35A5.3 5.3 0 0 0 11.47 6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M7.37 8a5.5 5.5 0 0 0-1.2 3.45A3.23 3.23 0 0 0 3 14.73C3 16.53 4.42 18 6.18 18H18" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m2 2 20 20" })
+        ]
+      }
+    );
+  }
+);
+CloudOff.displayName = "CloudOff";
+var CloudRainWind = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20.79 14q.21-.65.21-1.36a4.3 4.3 0 0 0-4.67-4.35A5.3 5.3 0 0 0 11.47 5a5.4 5.4 0 0 0-5.3 5.45A3.23 3.23 0 0 0 3 13.73c0 1.38.83 2.56 2 3.04" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.76 15 8 19.68" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m13.53 16.24-1.76 4.68" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17.76 15 16 19.68" })
+        ]
+      }
+    );
+  }
+);
+CloudRainWind.displayName = "CloudRainWind";
+var CloudRain = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20.79 14q.21-.65.21-1.36a4.3 4.3 0 0 0-4.67-4.35A5.3 5.3 0 0 0 11.47 5a5.4 5.4 0 0 0-5.3 5.45A3.23 3.23 0 0 0 3 13.73c0 1.38.83 2.56 2 3.04" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 15v5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 17v5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17 15v5" })
+        ]
+      }
+    );
+  }
+);
+CloudRain.displayName = "CloudRain";
+var CloudSnow = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsxs(Svg.G, { clipPath: "url(#a)", children: [
+            /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20.79 14q.21-.65.21-1.36a4.3 4.3 0 0 0-4.67-4.35A5.3 5.3 0 0 0 11.47 5a5.4 5.4 0 0 0-5.3 5.45A3.23 3.23 0 0 0 3 13.73c0 1.38.83 2.56 2 3.04" }),
+            /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.01 16H9" }),
+            /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.01 20H9" }),
+            /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13.01 21H13" }),
+            /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17.01 20H17" }),
+            /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13.01 17H13" }),
+            /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17.01 16H17" })
+          ] }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Defs, { children: /* @__PURE__ */ jsxRuntime.jsx(Svg.ClipPath, { id: "a", children: /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 24, height: 24 }) }) })
+        ]
+      }
+    );
+  }
+);
+CloudSnow.displayName = "CloudSnow";
+var CloudSun = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.59 12a4.1 4.1 0 0 1 3.79 2.47l.33-.02a3.28 3.28 0 1 1 0 6.55H5.47A2.46 2.46 0 0 1 3 18.55a2.46 2.46 0 0 1 2.47-2.47A4.1 4.1 0 0 1 9.6 12Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M11 8.11A4 4 0 0 1 15.81 11" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v2.5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17.5 5.5 19 4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M19 9.5h2.5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8.5 5.5 6.5 4" })
+        ]
+      }
+    );
+  }
+);
+CloudSun.displayName = "CloudSun";
+var CloudUpload = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20 14.45c.62-.76 1-1.74 1-2.81a4.3 4.3 0 0 0-4.67-4.35A5.3 5.3 0 0 0 11.47 4a5.4 5.4 0 0 0-5.3 5.45A3.23 3.23 0 0 0 3 12.73c0 .94.38 1.78 1 2.38" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 14v7" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m9 17 2.96-2.96a.05.05 0 0 1 .08 0L15 17" })
+        ]
+      }
+    );
+  }
+);
+CloudUpload.displayName = "CloudUpload";
+var Cloud = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsx(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M11.47 6a5.3 5.3 0 0 1 4.87 3.3l.42-.03A4.3 4.3 0 0 1 21 13.64 4.3 4.3 0 0 1 16.76 18H6.18A3.23 3.23 0 0 1 3 14.73a3.23 3.23 0 0 1 3.18-3.29c0-3 2.37-5.44 5.3-5.44Z" })
+      }
+    );
+  }
+);
+Cloud.displayName = "Cloud";
 var CodeXml = react.forwardRef(
   ({
     size = 24,
@@ -1656,6 +2986,27 @@ var Columns3 = react.forwardRef(
   }
 );
 Columns3.displayName = "Columns3";
+var Command = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsx(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 9H6a3 3 0 1 1 3-3zm0 0h6M9 9v9a3 3 0 1 1-3-3h12a3 3 0 1 1-3 3V9m0 0h3a3 3 0 1 0-3-3z" })
+      }
+    );
+  }
+);
+Command.displayName = "Command";
 var Compass = react.forwardRef(
   ({
     size = 24,
@@ -1680,6 +3031,32 @@ var Compass = react.forwardRef(
   }
 );
 Compass.displayName = "Compass";
+var Component = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m12.68 2.7 2.16 2.16a1 1 0 0 1 0 1.42l-2.16 2.16a1 1 0 0 1-1.42 0L9.11 6.28a1 1 0 0 1 0-1.42l2.15-2.15a1 1 0 0 1 1.42 0Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m6.28 9.16 2.16 2.16a1 1 0 0 1 0 1.42l-2.16 2.15a1 1 0 0 1-1.42 0l-2.15-2.15a1 1 0 0 1 0-1.42l2.15-2.16a1 1 0 0 1 1.42 0Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m19.14 9.1 2.15 2.16a1 1 0 0 1 0 1.42l-2.15 2.16a1 1 0 0 1-1.42 0l-2.16-2.16a1 1 0 0 1 0-1.42l2.16-2.15a1 1 0 0 1 1.42 0Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m12.74 15.56 2.15 2.16a1 1 0 0 1 0 1.42l-2.15 2.15a1 1 0 0 1-1.42 0l-2.16-2.15a1 1 0 0 1 0-1.42l2.16-2.16a1 1 0 0 1 1.42 0Z" })
+        ]
+      }
+    );
+  }
+);
+Component.displayName = "Component";
 var CopyCheck = react.forwardRef(
   ({
     size = 24,
@@ -1755,6 +3132,80 @@ var Copy = react.forwardRef(
   }
 );
 Copy.displayName = "Copy";
+var CpuAi = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 16, height: 16, x: 4, y: 4, rx: 2 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M7 2v2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 2v2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17 2v2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20 7h2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20 12h2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20 17h2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4 7H2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4 12H2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4 17H2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M7 20v2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 20v2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17 20v2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 15v-4a2 2 0 1 0-4 0v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 13h4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M16 9v6" })
+        ]
+      }
+    );
+  }
+);
+CpuAi.displayName = "CpuAi";
+var Cpu = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 16, height: 16, x: 4, y: 4, rx: 2 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 8, height: 8, x: 8, y: 8, rx: 1 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M7 2v2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 2v2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17 2v2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20 7h2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20 12h2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20 17h2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4 7H2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4 12H2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4 17H2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M7 20v2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 20v2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17 20v2" })
+        ]
+      }
+    );
+  }
+);
+Cpu.displayName = "Cpu";
 var CreditCardDisabled = react.forwardRef(
   ({
     size = 24,
@@ -1850,6 +3301,86 @@ var Crown = react.forwardRef(
   }
 );
 Crown.displayName = "Crown";
+var DatabaseBackup = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Ellipse, { cx: 12, cy: 5, rx: 9, ry: 3 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8.5 14.76C5.27 14.31 3 13.24 3 12" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M21 10V5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M10 21.93c-4-.3-7-1.5-7-2.93V5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M14.54 16a4 4 0 1 1 .46 4.65" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m14.5 12-.45 3.57a.5.5 0 0 0 .36.55l3.09.88" })
+        ]
+      }
+    );
+  }
+);
+DatabaseBackup.displayName = "DatabaseBackup";
+var DatabaseZap = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Ellipse, { cx: 12, cy: 5, rx: 9, ry: 3 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M15 14.83q-1.42.17-3 .17c-4.97 0-9-1.34-9-3" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M21 9V5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M14 21.93q-.96.06-2 .07c-4.97 0-9-1.34-9-3V5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m20.5 14-2.45 3.71q-.02.07.04.08h3.81q.07.02.04.08L19 22" })
+        ]
+      }
+    );
+  }
+);
+DatabaseZap.displayName = "DatabaseZap";
+var Database = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Ellipse, { cx: 12, cy: 5, rx: 9, ry: 3 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M21 12c0 1.66-4.03 3-9 3s-9-1.34-9-3" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3 5v14c0 1.66 4.03 3 9 3s9-1.34 9-3V5" })
+        ]
+      }
+    );
+  }
+);
+Database.displayName = "Database";
 var Divide = react.forwardRef(
   ({
     size = 24,
@@ -1949,6 +3480,59 @@ var DraftBook = react.forwardRef(
   }
 );
 DraftBook.displayName = "DraftBook";
+var EarOff = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6.32 6.5q-.15.45-.22.93L6 8" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M16.18 16.7a2 2 0 0 0-.25.64l-.2 1A4.54 4.54 0 0 1 11.28 22h-.12A4.4 4.4 0 0 1 7 19" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 3.03A6.5 6.5 0 0 1 19 8.5v.62q0 1.64-.5 3.18" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m2 2 20 20" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 6.06q.24-.06.5-.06C13.88 6 15 7.34 15 9" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M11.95 12c-.17.65-.74 1.33-1.95 2" })
+        ]
+      }
+    );
+  }
+);
+EarOff.displayName = "EarOff";
+var Ear = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m6 8 .1-.57A6.5 6.5 0 0 1 19 8.5v.62c0 1.88-.51 3.73-1.48 5.35l-1.34 2.23a2 2 0 0 0-.25.64l-.2 1A4.54 4.54 0 0 1 11.28 22h-.12A4.4 4.4 0 0 1 7 19" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M10 9c0-1.66 1.12-3 2.5-3S15 7.34 15 9" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M10 9c1.5.83 3.62 3 0 5" })
+        ]
+      }
+    );
+  }
+);
+Ear.displayName = "Ear";
 var Equal = react.forwardRef(
   ({
     size = 24,
@@ -2151,6 +3735,134 @@ var FastForward = react.forwardRef(
   }
 );
 FastForward.displayName = "FastForward";
+var FileCheck2 = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20 13V8.83a2 2 0 0 0-.59-1.42L14.6 2.6A2 2 0 0 0 13.17 2H6a2 2 0 0 0-2 2v16c0 1.1.9 2 2 2h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v4.29c0 .94.9 1.71 2 1.71h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m14 19.08 2.46 1.97q.04.03.07 0L20 17.08" })
+        ]
+      }
+    );
+  }
+);
+FileCheck2.displayName = "FileCheck2";
+var FileCheck = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4 4c0-1.1.9-2 2-2h7.17a2 2 0 0 1 1.42.59L19.4 7.4A2 2 0 0 1 20 8.83V20a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v4.29c0 .94.9 1.71 2 1.71h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m9 15 2.46 1.97q.04.02.07 0L15 13" })
+        ]
+      }
+    );
+  }
+);
+FileCheck.displayName = "FileCheck";
+var FileClock = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M16 22h2a2 2 0 0 0 2-2V8.83a2 2 0 0 0-.59-1.42L14.6 2.6A2 2 0 0 0 13.17 2H6a2 2 0 0 0-2 2v3" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v4.29c0 .94.9 1.71 2 1.71h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 14v1.97q0 .04.02.04L9.5 17" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 8, cy: 16, r: 6 })
+        ]
+      }
+    );
+  }
+);
+FileClock.displayName = "FileClock";
+var FileCodeCorner = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M14 22h4a2 2 0 0 0 2-2V8.83a2 2 0 0 0-.59-1.42L14.6 2.6A2 2 0 0 0 13.17 2H6a2 2 0 0 0-2 2v9" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v5c0 1.1.9 2 2 2h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m8 17 2.24 2.5q0 0 0 0L8 22" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m4.25 17-2.24 2.5q0 0 0 0L4.25 22" })
+        ]
+      }
+    );
+  }
+);
+FileCodeCorner.displayName = "FileCodeCorner";
+var FileCode = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4 4c0-1.1.9-2 2-2h7.17a2 2 0 0 1 1.42.59L19.4 7.4A2 2 0 0 1 20 8.83V20a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v5c0 1.1.9 2 2 2h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m14 13 2.24 2.5q0 0 0 0L14 18" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m10.25 13-2.24 2.5q0 0 0 0l2.24 2.5" })
+        ]
+      }
+    );
+  }
+);
+FileCode.displayName = "FileCode";
 var FileDiff = react.forwardRef(
   ({
     size = 24,
@@ -2177,6 +3889,289 @@ var FileDiff = react.forwardRef(
   }
 );
 FileDiff.displayName = "FileDiff";
+var FileInput = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v4.29c0 .94.9 1.71 2 1.71h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M2 14h10" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m9 11 2.96 2.96q.03.04 0 .08L9 17" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4 10V4c0-1.1.9-2 2-2h7.17a2 2 0 0 1 1.42.59L19.4 7.4A2 2 0 0 1 20 8.83V20a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2" })
+        ]
+      }
+    );
+  }
+);
+FileInput.displayName = "FileInput";
+var FileJson2 = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 22h5a2 2 0 0 0 2-2V8.83a2 2 0 0 0-.59-1.42L14.6 2.6A2 2 0 0 0 13.17 2H6a2 2 0 0 0-2 2v7" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v4.29c0 .94.9 1.71 2 1.71h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 15a1 1 0 0 1 1 1v1.28a1 1 0 0 0 .43.82l.51.36q.04.04 0 .08l-.51.36a1 1 0 0 0-.43.82V21a1 1 0 0 1-1 1" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4 15a1 1 0 0 0-1 1v1.28a1 1 0 0 1-.43.82l-.51.36a.05.05 0 0 0 0 .08l.51.36a1 1 0 0 1 .43.82V21a1 1 0 0 0 1 1" })
+        ]
+      }
+    );
+  }
+);
+FileJson2.displayName = "FileJson2";
+var FileJson = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4 4c0-1.1.9-2 2-2h7.17a2 2 0 0 1 1.42.59L19.4 7.4A2 2 0 0 1 20 8.83V20a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v4.29c0 .94.9 1.71 2 1.71h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M14 12a1 1 0 0 1 1 1v.87c0 .33.17.63.45.8l.48.29q.04.04 0 .08l-.48.29a1 1 0 0 0-.45.8V17a1 1 0 0 1-1 1" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M10 12a1 1 0 0 0-1 1v.87c0 .33-.17.63-.45.8l-.48.29a.05.05 0 0 0 0 .08l.48.29c.28.17.45.47.45.8V17a1 1 0 0 0 1 1" })
+        ]
+      }
+    );
+  }
+);
+FileJson.displayName = "FileJson";
+var FileLock = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M14 22h4a2 2 0 0 0 2-2V8.83a2 2 0 0 0-.59-1.42L14.6 2.6A2 2 0 0 0 13.17 2H6a2 2 0 0 0-2 2v5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v4.29c0 .94.9 1.71 2 1.71h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 8, height: 5, x: 2, y: 17, rx: 1 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 17v-2a2 2 0 1 0-4 0v2" })
+        ]
+      }
+    );
+  }
+);
+FileLock.displayName = "FileLock";
+var FileMinus2 = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M18 22H6a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2h7.17a2 2 0 0 1 1.42.59L19.4 7.4A2 2 0 0 1 20 8.83V14" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v4.29c0 .94.9 1.71 2 1.71h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M14 18h6" })
+        ]
+      }
+    );
+  }
+);
+FileMinus2.displayName = "FileMinus2";
+var FileMinus = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4 4c0-1.1.9-2 2-2h7.17a2 2 0 0 1 1.42.59L19.4 7.4A2 2 0 0 1 20 8.83V20a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v4.29c0 .94.9 1.71 2 1.71h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 15h6" })
+        ]
+      }
+    );
+  }
+);
+FileMinus.displayName = "FileMinus";
+var FileOutput = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4.27 21c.34.6.99 1 1.73 1h12a2 2 0 0 0 2-2V8.83a2 2 0 0 0-.59-1.42L14.6 2.6A2 2 0 0 0 13.17 2H6a2 2 0 0 0-2 2v3" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v4.29c0 .94.9 1.71 2 1.71h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 14H2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m5 11-2.96 2.96a.05.05 0 0 0 0 .08L5 17" })
+        ]
+      }
+    );
+  }
+);
+FileOutput.displayName = "FileOutput";
+var FilePlus2 = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20 13V8.83a2 2 0 0 0-.59-1.42L14.6 2.6A2 2 0 0 0 13.17 2H6a2 2 0 0 0-2 2v16c0 1.1.9 2 2 2h6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v4.29c0 .94.9 1.71 2 1.71h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17 16v6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M14 19h6" })
+        ]
+      }
+    );
+  }
+);
+FilePlus2.displayName = "FilePlus2";
+var FilePlus = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4 4c0-1.1.9-2 2-2h7.17a2 2 0 0 1 1.42.59L19.4 7.4A2 2 0 0 1 20 8.83V20a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v4.29c0 .94.9 1.71 2 1.71h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 12v6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 15h6" })
+        ]
+      }
+    );
+  }
+);
+FilePlus.displayName = "FilePlus";
+var FileQuestionMark = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4 4c0-1.1.9-2 2-2h7.17a2 2 0 0 1 1.42.59L19.4 7.4A2 2 0 0 1 20 8.83V20a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 10c.42-1.17 1.57-2 2.91-2C13.61 8 15 9.34 15 11s-2 2.5-3.09 3" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12.01 18H12" })
+        ]
+      }
+    );
+  }
+);
+FileQuestionMark.displayName = "FileQuestionMark";
+var FileSearch2 = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20 12V8.83a2 2 0 0 0-.59-1.42L14.6 2.6A2 2 0 0 0 13.17 2H6a2 2 0 0 0-2 2v16c0 1.1.9 2 2 2h4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v4.29c0 .94.9 1.71 2 1.71h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 15, cy: 17, r: 3 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17.5 19.5 20 22" })
+        ]
+      }
+    );
+  }
+);
+FileSearch2.displayName = "FileSearch2";
 var FileSymlink = react.forwardRef(
   ({
     size = 24,
@@ -2202,6 +4197,33 @@ var FileSymlink = react.forwardRef(
   }
 );
 FileSymlink.displayName = "FileSymlink";
+var FileText = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4 4c0-1.1.9-2 2-2h7.17a2 2 0 0 1 1.42.59L19.4 7.4A2 2 0 0 1 20 8.83V20a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v5c0 1.1.9 2 2 2h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 10h2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 14h8" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 18h8" })
+        ]
+      }
+    );
+  }
+);
+FileText.displayName = "FileText";
 var FileVolume = react.forwardRef(
   ({
     size = 24,
@@ -2228,6 +4250,58 @@ var FileVolume = react.forwardRef(
   }
 );
 FileVolume.displayName = "FileVolume";
+var FileX2 = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20 13V8.83a2 2 0 0 0-.59-1.42L14.6 2.6A2 2 0 0 0 13.17 2H6a2 2 0 0 0-2 2v16c0 1.1.9 2 2 2h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v4.29c0 .94.9 1.71 2 1.71h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m15 22 5-5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m15 17 5 5" })
+        ]
+      }
+    );
+  }
+);
+FileX2.displayName = "FileX2";
+var FileX = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4 4c0-1.1.9-2 2-2h7.17a2 2 0 0 1 1.42.59L19.4 7.4A2 2 0 0 1 20 8.83V20a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M13 2v4.29c0 .94.9 1.71 2 1.71h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m9.5 17.5 5-5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m9.5 12.5 5 5" })
+        ]
+      }
+    );
+  }
+);
+FileX.displayName = "FileX";
 var File = react.forwardRef(
   ({
     size = 24,
@@ -2311,6 +4385,299 @@ var FingerPrint = react.forwardRef(
   }
 );
 FingerPrint.displayName = "FingerPrint";
+var FolderCheck = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.17 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-6.17a2 2 0 0 1-1.42-.59L10.6 3.6A2 2 0 0 0 9.17 3Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m9 13.08 2.46 1.97q.04.03.07 0L15 11.08" })
+        ]
+      }
+    );
+  }
+);
+FolderCheck.displayName = "FolderCheck";
+var FolderDown = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.17 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-6.17a2 2 0 0 1-1.42-.59L10.6 3.6A2 2 0 0 0 9.17 3Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 15v-5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m9 13 2.96 2.96q.04.03.08 0L15 13" })
+        ]
+      }
+    );
+  }
+);
+FolderDown.displayName = "FolderDown";
+var FolderHeart = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M10 20H4a2 2 0 0 1-2-2V5c0-1.1.9-2 2-2h5.17a2 2 0 0 1 1.42.59L12.4 5.4a2 2 0 0 0 1.42.59H20a2 2 0 0 1 2 2v3" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m17.51 15.7.47.56h.04l.47-.55c1.25-1.47 3.51-.5 3.51 1.5 0 .63-.25 1.23-.68 1.65l-3.24 3.1a.1.1 0 0 1-.16 0l-3.24-3.1A2.3 2.3 0 0 1 14 17.2c0-2 2.26-2.97 3.51-1.5Z" })
+        ]
+      }
+    );
+  }
+);
+FolderHeart.displayName = "FolderHeart";
+var FolderLock = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M10 20H4a2 2 0 0 1-2-2V5c0-1.1.9-2 2-2h5.17a2 2 0 0 1 1.42.59L12.4 5.4a2 2 0 0 0 1.42.59H20a2 2 0 0 1 2 2v2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 8, height: 5, x: 14, y: 17, rx: 1 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20 17v-2a2 2 0 1 0-4 0v2" })
+        ]
+      }
+    );
+  }
+);
+FolderLock.displayName = "FolderLock";
+var FolderMinus = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.17 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-6.17a2 2 0 0 1-1.42-.59L10.6 3.6A2 2 0 0 0 9.17 3Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 13h6" })
+        ]
+      }
+    );
+  }
+);
+FolderMinus.displayName = "FolderMinus";
+var FolderOpen = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsx(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20 10V8a2 2 0 0 0-2-2h-4.17a2 2 0 0 1-1.42-.59L10.6 3.6A2 2 0 0 0 9.17 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2h14.36a2 2 0 0 0 1.96-1.6l1.44-7.2a1 1 0 0 0-.98-1.2zm0 0H10a2 2 0 0 0-1.6.8L6 14" })
+      }
+    );
+  }
+);
+FolderOpen.displayName = "FolderOpen";
+var FolderPlus = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.17 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-6.17a2 2 0 0 1-1.42-.59L10.6 3.6A2 2 0 0 0 9.17 3Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 10v6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 13h6" })
+        ]
+      }
+    );
+  }
+);
+FolderPlus.displayName = "FolderPlus";
+var FolderRoot = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.17 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-6.17a2 2 0 0 1-1.42-.59L10.6 3.6A2 2 0 0 0 9.17 3Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 20v-5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 12, cy: 13, r: 2 })
+        ]
+      }
+    );
+  }
+);
+FolderRoot.displayName = "FolderRoot";
+var FolderSearch2 = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M10 20H4a2 2 0 0 1-2-2V5c0-1.1.9-2 2-2h5.17a2 2 0 0 1 1.42.59L12.4 5.4a2 2 0 0 0 1.42.59H20a2 2 0 0 1 2 2v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 16, cy: 16, r: 3 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M18.5 18.5 21 21" })
+        ]
+      }
+    );
+  }
+);
+FolderSearch2.displayName = "FolderSearch2";
+var FolderSearch = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.17 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-6.17a2 2 0 0 1-1.42-.59L10.6 3.6A2 2 0 0 0 9.17 3Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 11.5, cy: 12.5, r: 2.5 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m14 15 1 1" })
+        ]
+      }
+    );
+  }
+);
+FolderSearch.displayName = "FolderSearch";
+var FolderUp = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.17 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-6.17a2 2 0 0 1-1.42-.59L10.6 3.6A2 2 0 0 0 9.17 3Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 11v5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m9 13 2.96-2.96a.05.05 0 0 1 .08 0L15 13" })
+        ]
+      }
+    );
+  }
+);
+FolderUp.displayName = "FolderUp";
+var FolderX = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.17 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-6.17a2 2 0 0 1-1.42-.59L10.6 3.6A2 2 0 0 0 9.17 3Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m9.5 15.5 5-5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m14.5 15.5-5-5" })
+        ]
+      }
+    );
+  }
+);
+FolderX.displayName = "FolderX";
 var Folder = react.forwardRef(
   ({
     size = 24,
@@ -2326,7 +4693,7 @@ var Folder = react.forwardRef(
         color,
         strokeWidth,
         ...props,
-        children: /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3 7c0-1.1.9-2 2-2h2.4a2 2 0 0 1 1.6.8l1.05 1.4a2 2 0 0 0 1.6.8H19a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" })
+        children: /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.17 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-6.17a2 2 0 0 1-1.42-.59L10.6 3.6A2 2 0 0 0 9.17 3" })
       }
     );
   }
@@ -2486,6 +4853,270 @@ var Gift = react.forwardRef(
   }
 );
 Gift.displayName = "Gift";
+var GitBranchMinus = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 18a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M21 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M15 6c-3.33-.33-9.8 1-9 9" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6 3v12" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M15 18h6" })
+        ]
+      }
+    );
+  }
+);
+GitBranchMinus.displayName = "GitBranchMinus";
+var GitBranchPlus = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 18a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M21 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M15 6c-3.33-.33-9.8 1-9 9" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6 3v12" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M18 15v6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M15 18h6" })
+        ]
+      }
+    );
+  }
+);
+GitBranchPlus.displayName = "GitBranchPlus";
+var GitBranch = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 6, cy: 18, r: 3 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 18, cy: 6, r: 3 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M15 6c-3.33-.33-9.8 1-9 9" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6 3v12" })
+        ]
+      }
+    );
+  }
+);
+GitBranch.displayName = "GitBranch";
+var GitCommitHorizontal = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 12, cy: 12, r: 3 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 12H3" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M15 12h6" })
+        ]
+      }
+    );
+  }
+);
+GitCommitHorizontal.displayName = "GitCommitHorizontal";
+var GitCommitVertical = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 12, cy: 12, r: 3 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 9V3" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 15v6" })
+        ]
+      }
+    );
+  }
+);
+GitCommitVertical.displayName = "GitCommitVertical";
+var GitCompareArrows = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 3, cy: 3, r: 3, transform: "matrix(1 0 0 -1 2 8)" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 3, cy: 3, r: 3, transform: "matrix(1 0 0 -1 16 22)" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M19 16V9a2 2 0 0 0-2-2h-5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M5 8v7c0 1.1.9 2 2 2h5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m9 14 2.96 2.96q.03.04 0 .08L9 20" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M14.98 10 12 7.04a.05.05 0 0 1 0-.08L14.98 4" })
+        ]
+      }
+    );
+  }
+);
+GitCompareArrows.displayName = "GitCompareArrows";
+var GitCompare = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 3, cy: 3, r: 3, transform: "matrix(1 0 0 -1 3 9)" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 3, cy: 3, r: 3, transform: "matrix(1 0 0 -1 15 21)" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M18 15V8a2 2 0 0 0-2-2h-3" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6 9v7c0 1.1.9 2 2 2h3" })
+        ]
+      }
+    );
+  }
+);
+GitCompare.displayName = "GitCompare";
+var GitFork = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 3, cy: 3, r: 3, transform: "matrix(1 0 0 -1 3 9)" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 3, cy: 3, r: 3, transform: "matrix(1 0 0 -1 15 9)" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 3, cy: 3, r: 3, transform: "matrix(1 0 0 -1 9 21)" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6 9v2a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 15v-3" })
+        ]
+      }
+    );
+  }
+);
+GitFork.displayName = "GitFork";
+var GitMerge = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 3, cy: 3, r: 3, transform: "matrix(1 0 0 -1 3 9)" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 3, cy: 3, r: 3, transform: "matrix(1 0 0 -1 15 21)" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M15 18c-3.33.33-9.8-1-9-9" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6 21V9" })
+        ]
+      }
+    );
+  }
+);
+GitMerge.displayName = "GitMerge";
+var GitPullRequest = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 3, cy: 3, r: 3, transform: "matrix(1 0 0 -1 3 9)" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 3, cy: 3, r: 3, transform: "matrix(1 0 0 -1 15 21)" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6 21V9" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M18 15V8a2 2 0 0 0-2-2h-3" })
+        ]
+      }
+    );
+  }
+);
+GitPullRequest.displayName = "GitPullRequest";
 var GlobeCheck = react.forwardRef(
   ({
     size = 24,
@@ -2856,6 +5487,27 @@ var HatGlasses = react.forwardRef(
   }
 );
 HatGlasses.displayName = "HatGlasses";
+var Headphones = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsx(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3 13.59V19c0 1.1.9 2 2 2h1a2 2 0 0 0 2-2v-3.41a2 2 0 0 0-2-2zm0 0V12a9 9 0 0 1 18 0v1.59m0 0V19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3.41c0-1.1.9-2 2-2z" })
+      }
+    );
+  }
+);
+Headphones.displayName = "Headphones";
 var HeartCrack = react.forwardRef(
   ({
     size = 24,
@@ -3180,6 +5832,30 @@ var Key = react.forwardRef(
   }
 );
 Key.displayName = "Key";
+var Laptop = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M4.22 12V7c0-1.1.9-2 2-2h11.56a2 2 0 0 1 2 2v8.74a1 1 0 0 0 .12.49l1.44 2.58a.8.8 0 0 1-.7 1.19H3.36a.8.8 0 0 1-.7-1.19l1.44-2.58a1 1 0 0 0 .12-.49z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M5 16h14" })
+        ]
+      }
+    );
+  }
+);
+Laptop.displayName = "Laptop";
 var LaughWink = react.forwardRef(
   ({
     size = 24,
@@ -3232,6 +5908,31 @@ var Laugh = react.forwardRef(
   }
 );
 Laugh.displayName = "Laugh";
+var Layers = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m3.25 6.37 7.86-3.92a2 2 0 0 1 1.78 0l7.86 3.92a.7.7 0 0 1 0 1.26l-7.86 3.92a2 2 0 0 1-1.78 0L3.25 7.63a.7.7 0 0 1 0-1.26Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M2 12v.17c0 .28.16.53.42.64l8.78 3.84a2 2 0 0 0 1.6 0l8.78-3.84a.7.7 0 0 0 .42-.64V12" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M2 17v.17c0 .28.16.53.42.64l8.78 3.84a2 2 0 0 0 1.6 0l8.78-3.84a.7.7 0 0 0 .42-.64V17" })
+        ]
+      }
+    );
+  }
+);
+Layers.displayName = "Layers";
 var LayoutDashboard = react.forwardRef(
   ({
     size = 24,
@@ -4279,6 +6980,32 @@ var Menu = react.forwardRef(
   }
 );
 Menu.displayName = "Menu";
+var MessageSquareMore = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M14 19h6a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v16.6c0 .16.19.26.32.16L5.2 19.6A3 3 0 0 1 7 19z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 8, cy: 10, r: 1 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 12, cy: 10, r: 1 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 16, cy: 10, r: 1 })
+        ]
+      }
+    );
+  }
+);
+MessageSquareMore.displayName = "MessageSquareMore";
 var MessageSquarePlus = react.forwardRef(
   ({
     size = 24,
@@ -4447,6 +7174,31 @@ var Minus = react.forwardRef(
   }
 );
 Minus.displayName = "Minus";
+var Monitor = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 20, height: 14, x: 2, y: 3, rx: 3 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 17v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 21h8" })
+        ]
+      }
+    );
+  }
+);
+Monitor.displayName = "Monitor";
 var MoonStar = react.forwardRef(
   ({
     size = 24,
@@ -4636,6 +7388,141 @@ var PackageCheck = react.forwardRef(
   }
 );
 PackageCheck.displayName = "PackageCheck";
+var PackageMinus = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m3.5 7.5 8.1 4.32a1 1 0 0 0 .8 0l8.1-4.32" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 12v9.5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M21 13V7.59a1 1 0 0 0-.51-.88l-8-4.44a1 1 0 0 0-.98 0l-8 4.44A1 1 0 0 0 3 7.6v8.82c0 .36.2.7.51.88l8 4.44a1 1 0 0 0 .98 0l2.01-1.12" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M16 17h6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m8 5 8.5 4.5" })
+        ]
+      }
+    );
+  }
+);
+PackageMinus.displayName = "PackageMinus";
+var PackageOpen = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 12v8" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M19.79 12.32V16a1 1 0 0 1-.5.86l-7 4.17a1 1 0 0 1-1.02 0l-7-4.17a1 1 0 0 1-.48-.86v-3.67" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M2.95 3.96 5.5 2.57a4.7 4.7 0 0 1 4.55.05l11.08 6.33a1.3 1.3 0 0 1 .01 2.25l-3.2 1.86a4.3 4.3 0 0 1-4.33.02L2.92 6.97a1.72 1.72 0 0 1 .03-3.01Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m2.86 11.48 2.52 1.45c1.4.8 3.13.83 4.55.06L21.16 6.9a1.3 1.3 0 0 0 .06-2.25l-3.15-1.94a4.3 4.3 0 0 0-4.34-.11L2.9 8.47a1.72 1.72 0 0 0-.04 3.01Z" })
+        ]
+      }
+    );
+  }
+);
+PackageOpen.displayName = "PackageOpen";
+var PackagePlus = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m3.5 7.5 8.1 4.32a1 1 0 0 0 .8 0l8.1-4.32" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 12v9.5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M21 10V7.59a1 1 0 0 0-.51-.88l-8-4.44a1 1 0 0 0-.98 0l-8 4.44A1 1 0 0 0 3 7.6v8.82c0 .36.2.7.51.88l8 4.44a1 1 0 0 0 .98 0l2.01-1.12" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M16 17h6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M19 14v6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m8 5 8.5 4.5" })
+        ]
+      }
+    );
+  }
+);
+PackagePlus.displayName = "PackagePlus";
+var PackageX = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m3.5 7.5 8.1 4.32a1 1 0 0 0 .8 0l8.1-4.32" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 12v9.5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m13.25 21.3-.76.43a1 1 0 0 1-.98 0l-8-4.44A1 1 0 0 1 3 16.4V7.6c0-.36.2-.7.51-.88l8-4.44a1 1 0 0 1 .98 0l8 4.44a1 1 0 0 1 .51.88V10" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m16.5 14.5 5 5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m21.5 14.5-5 5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m8 5 8.5 4.5" })
+        ]
+      }
+    );
+  }
+);
+PackageX.displayName = "PackageX";
+var Package = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m3.5 7.5 8.1 4.32a1 1 0 0 0 .8 0l8.1-4.32" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 12v9.5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m12.49 2.27 8 4.44a1 1 0 0 1 .51.88v8.82a1 1 0 0 1-.51.88l-8 4.44a1 1 0 0 1-.98 0l-8-4.44A1 1 0 0 1 3 16.4V7.6c0-.36.2-.7.51-.88l8-4.44a1 1 0 0 1 .98 0Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m8 5 8.5 4.5" })
+        ]
+      }
+    );
+  }
+);
+Package.displayName = "Package";
 var PaintBucket = react.forwardRef(
   ({
     size = 24,
@@ -5148,6 +8035,59 @@ var Play = react.forwardRef(
   }
 );
 Play.displayName = "Play";
+var PlugZap = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsxs(Svg.G, { clipPath: "url(#a)", children: [
+            /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M5.13 18.77 2.86 21.1m7.65-10.7L7.8 13.19m5.58 0L10.65 16m-6 2.32.96.93a3.3 3.3 0 0 0 4.66 0l1.36-1.4a.66.66 0 0 0-.03-.93l-4.77-4.65a.66.66 0 0 0-.93 0l-1.36 1.4a3.3 3.3 0 0 0 .12 4.65Z" }),
+            /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m19.75 3-3.67 3.92q-.03.06.04.08h4.76q.08.02.04.08L17.25 11" })
+          ] }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Defs, { children: /* @__PURE__ */ jsxRuntime.jsx(Svg.ClipPath, { id: "a", children: /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 24, height: 24 }) }) })
+        ]
+      }
+    );
+  }
+);
+PlugZap.displayName = "PlugZap";
+var Plug = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M11 17h2a5 5 0 0 0 5-5V9a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1v3a5 5 0 0 0 5 5Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 17v5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 2v6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M15 2v6" })
+        ]
+      }
+    );
+  }
+);
+Plug.displayName = "Plug";
 var Plus = react.forwardRef(
   ({
     size = 24,
@@ -5197,6 +8137,89 @@ var PoundSterling = react.forwardRef(
   }
 );
 PoundSterling.displayName = "PoundSterling";
+var PowerOff = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20.78 15a9 9 0 0 0-2.07-8" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M5.3 7a9 9 0 1 0 13.42 12" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 2v4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m2 2 20 20" })
+        ]
+      }
+    );
+  }
+);
+PowerOff.displayName = "PowerOff";
+var Power = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M5.3 7a9 9 0 1 0 13.42 0" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 2v10" })
+        ]
+      }
+    );
+  }
+);
+Power.displayName = "Power";
+var QrCode = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 5, height: 5, x: 3, y: 3, rx: 1 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 5, height: 5, x: 3, y: 16, rx: 1 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 5, height: 5, x: 16, y: 3, rx: 1 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M21 16h-3a2 2 0 0 0-2 2v3" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 20v1" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12.01 16H12" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3.01 12H3" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12.01 3H12" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M21.01 12H21" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M16 12h1" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M7 12h3a2 2 0 0 0 2-2V7" })
+        ]
+      }
+    );
+  }
+);
+QrCode.displayName = "QrCode";
 var Radio = react.forwardRef(
   ({
     size = 24,
@@ -5501,6 +8524,82 @@ var Save = react.forwardRef(
   }
 );
 Save.displayName = "Save";
+var ScanBarcode = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3 7V5c0-1.1.9-2 2-2h2M3 17v2c0 1.1.9 2 2 2h2M21 7V5a2 2 0 0 0-2-2h-2m4 14v2a2 2 0 0 1-2 2h-2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 7v10" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12 7v10" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17 7v10" })
+        ]
+      }
+    );
+  }
+);
+ScanBarcode.displayName = "ScanBarcode";
+var ScanFace = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3 7V5c0-1.1.9-2 2-2h2M3 17v2c0 1.1.9 2 2 2h2M21 7V5a2 2 0 0 0-2-2h-2m4 14v2a2 2 0 0 1-2 2h-2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.01 9H9" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M15.01 9H15" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 14c1.17 1.5 4.4 3.62 8 0" })
+        ]
+      }
+    );
+  }
+);
+ScanFace.displayName = "ScanFace";
+var ScanLine = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3 7V5c0-1.1.9-2 2-2h2M3 17v2c0 1.1.9 2 2 2h2M21 7V5a2 2 0 0 0-2-2h-2m4 14v2a2 2 0 0 1-2 2h-2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M7 12h10" })
+        ]
+      }
+    );
+  }
+);
+ScanLine.displayName = "ScanLine";
 var ScanQr = react.forwardRef(
   ({
     size = 24,
@@ -5530,6 +8629,27 @@ var ScanQr = react.forwardRef(
   }
 );
 ScanQr.displayName = "ScanQr";
+var Scan = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsx(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3 7V5c0-1.1.9-2 2-2h2M3 17v2c0 1.1.9 2 2 2h2M21 7V5a2 2 0 0 0-2-2h-2m4 14v2a2 2 0 0 1-2 2h-2" })
+      }
+    );
+  }
+);
+Scan.displayName = "Scan";
 var Scissors = react.forwardRef(
   ({
     size = 24,
@@ -5656,6 +8776,87 @@ var Send = react.forwardRef(
   }
 );
 Send.displayName = "Send";
+var ServerCrash = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M7 10H4a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2h16a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-3" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M7 14H4a2 2 0 0 0-2 2v4c0 1.1.9 2 2 2h16a2 2 0 0 0 2-2v-4a2 2 0 0 0-2-2h-3" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6.01 6H6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6.01 18H6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m12.5 8-2.45 3.71q-.03.07.04.08h3.81q.07.02.04.08L11 16" })
+        ]
+      }
+    );
+  }
+);
+ServerCrash.displayName = "ServerCrash";
+var ServerOff = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 2h12a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-4" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M10 10H4a2 2 0 0 1-2-2V2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M22 22H4a2 2 0 0 1-2-2v-4c0-1.1.9-2 2-2h10m5.5 0h.5a2 2 0 0 1 2 2" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6.01 6H6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6.01 18H6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m2 2 20 20" })
+        ]
+      }
+    );
+  }
+);
+ServerOff.displayName = "ServerOff";
+var Server = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 20, height: 8, x: 2, y: 2, rx: 2 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 20, height: 8, x: 2, y: 14, rx: 2 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6.01 6H6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M6.01 18H6" })
+        ]
+      }
+    );
+  }
+);
+Server.displayName = "Server";
 var SettingsControl = react.forwardRef(
   ({
     size = 24,
@@ -6214,6 +9415,30 @@ var SlidersVertical = react.forwardRef(
   }
 );
 SlidersVertical.displayName = "SlidersVertical";
+var Smartphone = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 14, height: 20, x: 5, y: 2, rx: 2 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12.01 19H12" })
+        ]
+      }
+    );
+  }
+);
+Smartphone.displayName = "Smartphone";
 var SmilePlus = react.forwardRef(
   ({
     size = 24,
@@ -6348,6 +9573,32 @@ var Sparkles = react.forwardRef(
   }
 );
 Sparkles.displayName = "Sparkles";
+var Speaker = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 16, height: 20, x: 4, y: 2, rx: 2 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12.01 6H12" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12.01 14H12" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Circle, { cx: 12, cy: 14, r: 4 })
+        ]
+      }
+    );
+  }
+);
+Speaker.displayName = "Speaker";
 var Split = react.forwardRef(
   ({
     size = 24,
@@ -6398,6 +9649,56 @@ var SquareActivity = react.forwardRef(
   }
 );
 SquareActivity.displayName = "SquareActivity";
+var SquareArrowDownLeft = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 18, height: 18, x: 3, y: 3, rx: 2 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M15 15H9.3a.3.3 0 0 1-.3-.3V9" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M14.5 9.5 9 15" })
+        ]
+      }
+    );
+  }
+);
+SquareArrowDownLeft.displayName = "SquareArrowDownLeft";
+var SquareArrowDownRight = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M19 3H5a2 2 0 0 0-2 2v14c0 1.1.9 2 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2Z" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 15h5.7a.3.3 0 0 0 .3-.3V9" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9.5 9.5 15 15" })
+        ]
+      }
+    );
+  }
+);
+SquareArrowDownRight.displayName = "SquareArrowDownRight";
 var SquareArrowOutUpLeft = react.forwardRef(
   ({
     size = 24,
@@ -6522,6 +9823,54 @@ var SquareChevronDown = react.forwardRef(
   }
 );
 SquareChevronDown.displayName = "SquareChevronDown";
+var SquareChevronLeft = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m14 16-3.65-3.65a.5.5 0 0 1 0-.7L14 8" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M3 20V4a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1Z" })
+        ]
+      }
+    );
+  }
+);
+SquareChevronLeft.displayName = "SquareChevronLeft";
+var SquareChevronRight = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m10 16 3.85-3.65c.2-.2.2-.5 0-.7L10 8" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M21 20V4a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1v16a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1Z" })
+        ]
+      }
+    );
+  }
+);
+SquareChevronRight.displayName = "SquareChevronRight";
 var SquareChevronUp = react.forwardRef(
   ({
     size = 24,
@@ -6571,6 +9920,52 @@ var SquareUser = react.forwardRef(
   }
 );
 SquareUser.displayName = "SquareUser";
+var SquareX = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 18, height: 18, x: 3, y: 3, rx: 2 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m9 9 6 6" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m15 9-6 6" })
+        ]
+      }
+    );
+  }
+);
+SquareX.displayName = "SquareX";
+var Square = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsx(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M20 3H4a1 1 0 0 0-1 1v16a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1Z" })
+      }
+    );
+  }
+);
+Square.displayName = "Square";
 var Star = react.forwardRef(
   ({
     size = 24,
@@ -6783,6 +10178,30 @@ var TableProperties = react.forwardRef(
   }
 );
 TableProperties.displayName = "TableProperties";
+var Tablet = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 16, height: 20, x: 4, y: 2, rx: 2 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12.01 19H12" })
+        ]
+      }
+    );
+  }
+);
+Tablet.displayName = "Tablet";
 var TagCheck = react.forwardRef(
   ({
     size = 24,
@@ -7128,6 +10547,31 @@ var Truck = react.forwardRef(
   }
 );
 Truck.displayName = "Truck";
+var Tv = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 20, height: 15, x: 2, y: 7, rx: 3 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m8 2 4 5" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m16 2-4 5" })
+        ]
+      }
+    );
+  }
+);
+Tv.displayName = "Tv";
 var Undo2 = react.forwardRef(
   ({
     size = 24,
@@ -7782,6 +11226,85 @@ var Wand = react.forwardRef(
   }
 );
 Wand.displayName = "Wand";
+var WifiOff = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12.01 20H12" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M5 13a9.7 9.7 0 0 1 5-2.8" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M17 11.53q1 .6 2 1.47" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 16a5 5 0 0 1 6 0" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M2 9c.9-.92 2.27-1.95 4-2.73" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M11 5.02c3.25-.18 7.05.78 11 3.98" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "m2 2 20 20" })
+        ]
+      }
+    );
+  }
+);
+WifiOff.displayName = "WifiOff";
+var Wifi = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M12.01 20H12" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M5 13c2.06-2.26 7.74-5.43 14 0" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M9 16a5 5 0 0 1 6 0" }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M2 9c2.94-3.02 11.06-7.24 20 0" })
+        ]
+      }
+    );
+  }
+);
+Wifi.displayName = "Wifi";
+var WindowRestore = react.forwardRef(
+  ({
+    size = 24,
+    color = "currentColor",
+    strokeWidth = 2,
+    ...props
+  }, ref) => {
+    return /* @__PURE__ */ jsxRuntime.jsxs(
+      IconBase,
+      {
+        ref,
+        size,
+        color,
+        strokeWidth,
+        ...props,
+        children: [
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Rect, { width: 14, height: 14, x: 2, y: 8, rx: 1 }),
+          /* @__PURE__ */ jsxRuntime.jsx(Svg.Path, { d: "M8 4V3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1h-1" })
+        ]
+      }
+    );
+  }
+);
+WindowRestore.displayName = "WindowRestore";
 var Wrench = react.forwardRef(
   ({
     size = 24,
@@ -7883,6 +11406,12 @@ exports.Activity = Activity;
 exports.Alert = Alert;
 exports.Angry = Angry;
 exports.Annoyed = Annoyed;
+exports.AreaChart = AreaChart;
+exports.ArrowDown = ArrowDown;
+exports.ArrowDownFromLine = ArrowDownFromLine;
+exports.ArrowDownLeft = ArrowDownLeft;
+exports.ArrowDownRight = ArrowDownRight;
+exports.ArrowDownToLine = ArrowDownToLine;
 exports.ArrowLeft = ArrowLeft;
 exports.ArrowLeftFromLine = ArrowLeftFromLine;
 exports.ArrowLeftToLine = ArrowLeftToLine;
@@ -7895,11 +11424,29 @@ exports.ArrowUpToLine = ArrowUpToLine;
 exports.BarChart = BarChart;
 exports.BarcodeRead = BarcodeRead;
 exports.Baseline = Baseline;
+exports.Battery = Battery;
+exports.BatteryCharging = BatteryCharging;
+exports.BatteryLow = BatteryLow;
+exports.BatteryMedium = BatteryMedium;
+exports.BatteryWarning = BatteryWarning;
+exports.Bell = Bell;
+exports.BellOff = BellOff;
 exports.BellRing = BellRing;
 exports.Bitcoin = Bitcoin;
+exports.Blocks = Blocks;
+exports.Bluetooth = Bluetooth;
+exports.BluetoothConnected = BluetoothConnected;
+exports.BluetoothOff = BluetoothOff;
+exports.BluetoothSearching = BluetoothSearching;
 exports.Bolt = Bolt;
 exports.Bookmark = Bookmark;
+exports.BookmarkCheck = BookmarkCheck;
+exports.BookmarkMinus = BookmarkMinus;
+exports.BookmarkPlus = BookmarkPlus;
+exports.BookmarkX = BookmarkX;
 exports.BotSmile = BotSmile;
+exports.Box = Box;
+exports.Boxes = Boxes;
 exports.Braces = Braces;
 exports.BrainCircuit = BrainCircuit;
 exports.Briefcase = Briefcase;
@@ -7910,23 +11457,42 @@ exports.Calendar = Calendar;
 exports.CalendarCheck = CalendarCheck;
 exports.CalendarClock = CalendarClock;
 exports.CalendarDays = CalendarDays;
+exports.CalendarHeart = CalendarHeart;
+exports.CalendarMinus = CalendarMinus;
+exports.CalendarMinus2 = CalendarMinus2;
+exports.CalendarPlus = CalendarPlus;
+exports.CalendarPlus2 = CalendarPlus2;
 exports.CalendarX = CalendarX;
+exports.ChartLine = ChartLine;
 exports.Chat = Chat;
+exports.ChatBubbleLeftRight = ChatBubbleLeftRight;
 exports.Check = Check;
+exports.CheckCheck = CheckCheck;
 exports.ChevronDown = ChevronDown;
+exports.ChevronLeft = ChevronLeft;
+exports.ChevronRight = ChevronRight;
 exports.ChevronUp = ChevronUp;
 exports.ChevronsDown = ChevronsDown;
 exports.ChevronsDownUp = ChevronsDownUp;
+exports.ChevronsLeft = ChevronsLeft;
+exports.ChevronsLeftRight = ChevronsLeftRight;
+exports.ChevronsRight = ChevronsRight;
 exports.ChevronsUp = ChevronsUp;
 exports.ChevronsUpDown = ChevronsUpDown;
+exports.CircleArrowDown = CircleArrowDown;
 exports.CircleArrowLeft = CircleArrowLeft;
 exports.CircleArrowOutUpLeft = CircleArrowOutUpLeft;
 exports.CircleArrowOutUpRight = CircleArrowOutUpRight;
+exports.CircleArrowRight = CircleArrowRight;
+exports.CircleArrowUp = CircleArrowUp;
 exports.CircleCheck = CircleCheck;
 exports.CircleCheckBig = CircleCheckBig;
 exports.CircleChevronDown = CircleChevronDown;
+exports.CircleChevronLeft = CircleChevronLeft;
+exports.CircleChevronRight = CircleChevronRight;
 exports.CircleChevronUp = CircleChevronUp;
 exports.CircleUser = CircleUser;
+exports.CircleX = CircleX;
 exports.Clapperboard = Clapperboard;
 exports.Clipboard = Clipboard;
 exports.ClipboardCheck = ClipboardCheck;
@@ -7934,6 +11500,16 @@ exports.ClipboardList = ClipboardList;
 exports.ClipboardPlus = ClipboardPlus;
 exports.ClipboardX = ClipboardX;
 exports.ClockArrowLeft = ClockArrowLeft;
+exports.Cloud = Cloud;
+exports.CloudHail = CloudHail;
+exports.CloudLightning = CloudLightning;
+exports.CloudMoon = CloudMoon;
+exports.CloudOff = CloudOff;
+exports.CloudRain = CloudRain;
+exports.CloudRainWind = CloudRainWind;
+exports.CloudSnow = CloudSnow;
+exports.CloudSun = CloudSun;
+exports.CloudUpload = CloudUpload;
 exports.Code = Code;
 exports.CodeXml = CodeXml;
 exports.Cog = Cog;
@@ -7942,18 +11518,27 @@ exports.ColumnChart = ColumnChart;
 exports.ColumnChartPlainIncreasing = ColumnChartPlainIncreasing;
 exports.Columns2 = Columns2;
 exports.Columns3 = Columns3;
+exports.Command = Command;
 exports.Compass = Compass;
+exports.Component = Component;
 exports.Copy = Copy;
 exports.CopyCheck = CopyCheck;
 exports.CopyX = CopyX;
+exports.Cpu = Cpu;
+exports.CpuAi = CpuAi;
 exports.CreditCard = CreditCard;
 exports.CreditCardDisabled = CreditCardDisabled;
 exports.CreditCardPlus = CreditCardPlus;
 exports.Crown = Crown;
+exports.Database = Database;
+exports.DatabaseBackup = DatabaseBackup;
+exports.DatabaseZap = DatabaseZap;
 exports.Divide = Divide;
 exports.DollarSign = DollarSign;
 exports.Download = Download;
 exports.DraftBook = DraftBook;
+exports.Ear = Ear;
+exports.EarOff = EarOff;
 exports.Equal = Equal;
 exports.Equalizer = Equalizer;
 exports.Eraser = Eraser;
@@ -7963,18 +11548,59 @@ exports.Eye = Eye;
 exports.EyeClosed = EyeClosed;
 exports.FastForward = FastForward;
 exports.File = File;
+exports.FileCheck = FileCheck;
+exports.FileCheck2 = FileCheck2;
+exports.FileClock = FileClock;
+exports.FileCode = FileCode;
+exports.FileCodeCorner = FileCodeCorner;
 exports.FileDiff = FileDiff;
+exports.FileInput = FileInput;
+exports.FileJson = FileJson;
+exports.FileJson2 = FileJson2;
+exports.FileLock = FileLock;
+exports.FileMinus = FileMinus;
+exports.FileMinus2 = FileMinus2;
+exports.FileOutput = FileOutput;
+exports.FilePlus = FilePlus;
+exports.FilePlus2 = FilePlus2;
+exports.FileQuestionMark = FileQuestionMark;
+exports.FileSearch2 = FileSearch2;
 exports.FileSymlink = FileSymlink;
+exports.FileText = FileText;
 exports.FileVolume = FileVolume;
+exports.FileX = FileX;
+exports.FileX2 = FileX2;
 exports.Film = Film;
 exports.FingerPrint = FingerPrint;
 exports.Folder = Folder;
+exports.FolderCheck = FolderCheck;
+exports.FolderDown = FolderDown;
+exports.FolderHeart = FolderHeart;
+exports.FolderLock = FolderLock;
+exports.FolderMinus = FolderMinus;
+exports.FolderOpen = FolderOpen;
+exports.FolderPlus = FolderPlus;
+exports.FolderRoot = FolderRoot;
+exports.FolderSearch = FolderSearch;
+exports.FolderSearch2 = FolderSearch2;
+exports.FolderUp = FolderUp;
+exports.FolderX = FolderX;
 exports.Frown = Frown;
 exports.GalleryHorizontal = GalleryHorizontal;
 exports.GalleryVertical = GalleryVertical;
 exports.Gem = Gem;
 exports.GenericLayout = GenericLayout;
 exports.Gift = Gift;
+exports.GitBranch = GitBranch;
+exports.GitBranchMinus = GitBranchMinus;
+exports.GitBranchPlus = GitBranchPlus;
+exports.GitCommitHorizontal = GitCommitHorizontal;
+exports.GitCommitVertical = GitCommitVertical;
+exports.GitCompare = GitCompare;
+exports.GitCompareArrows = GitCompareArrows;
+exports.GitFork = GitFork;
+exports.GitMerge = GitMerge;
+exports.GitPullRequest = GitPullRequest;
 exports.Globe = Globe;
 exports.GlobeCheck = GlobeCheck;
 exports.GlobeLock = GlobeLock;
@@ -7989,6 +11615,7 @@ exports.Hammer = Hammer;
 exports.Handbag = Handbag;
 exports.Hashtag = Hashtag;
 exports.HatGlasses = HatGlasses;
+exports.Headphones = Headphones;
 exports.Heart = Heart;
 exports.HeartCrack = HeartCrack;
 exports.HeartOff = HeartOff;
@@ -8002,8 +11629,10 @@ exports.Infinity = Infinity;
 exports.Info = Info;
 exports.Key = Key;
 exports.KeyRound = KeyRound;
+exports.Laptop = Laptop;
 exports.Laugh = Laugh;
 exports.LaughWink = LaughWink;
+exports.Layers = Layers;
 exports.LayoutDashboard = LayoutDashboard;
 exports.LayoutGrid = LayoutGrid;
 exports.LayoutKanban = LayoutKanban;
@@ -8046,12 +11675,14 @@ exports.Menu = Menu;
 exports.MenuHorizontal = MenuHorizontal;
 exports.MenuVertical = MenuVertical;
 exports.MessageSquare = MessageSquare;
+exports.MessageSquareMore = MessageSquareMore;
 exports.MessageSquarePlus = MessageSquarePlus;
 exports.MessageSquareText = MessageSquareText;
 exports.Mic = Mic;
 exports.MicOff = MicOff;
 exports.MicVintage = MicVintage;
 exports.Minus = Minus;
+exports.Monitor = Monitor;
 exports.Moon = Moon;
 exports.MoonStar = MoonStar;
 exports.MousePointer = MousePointer;
@@ -8059,7 +11690,12 @@ exports.Navigation = Navigation;
 exports.Navigation2 = Navigation2;
 exports.Notification = Notification;
 exports.Nut = Nut;
+exports.Package = Package;
 exports.PackageCheck = PackageCheck;
+exports.PackageMinus = PackageMinus;
+exports.PackageOpen = PackageOpen;
+exports.PackagePlus = PackagePlus;
+exports.PackageX = PackageX;
 exports.PaintBucket = PaintBucket;
 exports.Paperclip = Paperclip;
 exports.Pause = Pause;
@@ -8081,8 +11717,13 @@ exports.Pin = Pin;
 exports.Pipette = Pipette;
 exports.Play = Play;
 exports.PlaySquare = PlaySquare;
+exports.Plug = Plug;
+exports.PlugZap = PlugZap;
 exports.Plus = Plus;
 exports.PoundSterling = PoundSterling;
+exports.Power = Power;
+exports.PowerOff = PowerOff;
+exports.QrCode = QrCode;
 exports.Radio = Radio;
 exports.Receipt = Receipt;
 exports.ReceiptText = ReceiptText;
@@ -8095,12 +11736,19 @@ exports.RotateCwSquare = RotateCwSquare;
 exports.Rows2 = Rows2;
 exports.Rows3 = Rows3;
 exports.Save = Save;
+exports.Scan = Scan;
+exports.ScanBarcode = ScanBarcode;
+exports.ScanFace = ScanFace;
+exports.ScanLine = ScanLine;
 exports.ScanQr = ScanQr;
 exports.Scissors = Scissors;
 exports.Search = Search;
 exports.SearchMinus = SearchMinus;
 exports.SearchPlus = SearchPlus;
 exports.Send = Send;
+exports.Server = Server;
+exports.ServerCrash = ServerCrash;
+exports.ServerOff = ServerOff;
 exports.Settings = Settings;
 exports.SettingsControl = SettingsControl;
 exports.Shield = Shield;
@@ -8123,20 +11771,28 @@ exports.SkipBack = SkipBack;
 exports.SkipForward = SkipForward;
 exports.SlidersHorizontal = SlidersHorizontal;
 exports.SlidersVertical = SlidersVertical;
+exports.Smartphone = Smartphone;
 exports.Smile = Smile;
 exports.SmilePlus = SmilePlus;
 exports.SmileWink = SmileWink;
 exports.Sparkles = Sparkles;
 exports.SparklesText = SparklesText;
+exports.Speaker = Speaker;
 exports.Split = Split;
+exports.Square = Square;
 exports.SquareActivity = SquareActivity;
+exports.SquareArrowDownLeft = SquareArrowDownLeft;
+exports.SquareArrowDownRight = SquareArrowDownRight;
 exports.SquareArrowOutUpLeft = SquareArrowOutUpLeft;
 exports.SquareArrowOutUpRight = SquareArrowOutUpRight;
 exports.SquareArrowUpLeft = SquareArrowUpLeft;
 exports.SquareArrowUpRight = SquareArrowUpRight;
 exports.SquareChevronDown = SquareChevronDown;
+exports.SquareChevronLeft = SquareChevronLeft;
+exports.SquareChevronRight = SquareChevronRight;
 exports.SquareChevronUp = SquareChevronUp;
 exports.SquareUser = SquareUser;
+exports.SquareX = SquareX;
 exports.Star = Star;
 exports.StopCircle = StopCircle;
 exports.Sun = Sun;
@@ -8145,6 +11801,7 @@ exports.SunMoon = SunMoon;
 exports.SwapHorizontal = SwapHorizontal;
 exports.SwapVertical = SwapVertical;
 exports.TableProperties = TableProperties;
+exports.Tablet = Tablet;
 exports.TagCheck = TagCheck;
 exports.TagMinus = TagMinus;
 exports.TagPlus = TagPlus;
@@ -8159,6 +11816,7 @@ exports.Trash = Trash;
 exports.Trash2 = Trash2;
 exports.Truck = Truck;
 exports.TruckElectric = TruckElectric;
+exports.Tv = Tv;
 exports.Undo2 = Undo2;
 exports.Unlink = Unlink;
 exports.Upload = Upload;
@@ -8184,6 +11842,9 @@ exports.Wallet = Wallet;
 exports.WalletCards = WalletCards;
 exports.Wand = Wand;
 exports.WandSparkles = WandSparkles;
+exports.Wifi = Wifi;
+exports.WifiOff = WifiOff;
+exports.WindowRestore = WindowRestore;
 exports.Wrench = Wrench;
 exports.X = X;
 exports.Zap = Zap;

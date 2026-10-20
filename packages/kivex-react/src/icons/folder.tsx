@@ -21,7 +21,7 @@ export const Folder = forwardRef<SVGSVGElement, IconProps>(
         strokeWidth={strokeWidth}
         {...props}
       >
-        <path d="M3 7c0-1.1.9-2 2-2h2.4a2 2 0 0 1 1.6.8l1.05 1.4a2 2 0 0 0 1.6.8H19a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
+        <path d="M9.17 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-6.17a2 2 0 0 1-1.42-.59L10.6 3.6A2 2 0 0 0 9.17 3" />
       </IconBase>
     );
   }

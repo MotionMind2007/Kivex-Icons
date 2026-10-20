@@ -2,6 +2,7 @@
   "name": "kivex_flutter",
   "private": true,
   "scripts": {
-    "generate": "dart generator/build.dart"
+    "generate": "dart generator/build.dart",
+    "publish": "flutter pub publish"
   }
 }
